@@ -1,0 +1,120 @@
+.summarizer-frame {
+    all: initial; /* Reset all properties */
+    position: fixed;
+    top: 0; 
+    right: 0; 
+    width: 400px; 
+    height: 100%; 
+    background: white; 
+    border-left: 1px solid #ccc; 
+    overflow-y: auto; 
+    padding: 10px; 
+    z-index: 9999;
+    /* Re-establish base styles for the frame and its children */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: rgb(10, 10, 10);
+    box-sizing: border-box;
+    display: none;
+}
+
+/* Force all children to inherit the frame's styles */
+.summarizer-frame * {
+    all: revert;
+    font-family: inherit;
+    color: inherit;
+    box-sizing: inherit;
+}
+
+.summary-container {
+    margin-bottom: 20px;
+}
+
+.summary-content {
+    font-size:1em;
+}
+
+.title-wrapper {
+    position: relative;
+    padding-right: 30px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.title-anchor,
+.title-anchor:visited,
+.title-anchor:hover,
+.title-anchor:active {
+    line-height: 1.3;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: rgb(10, 10, 10);
+    text-decoration: none;
+}
+
+.title-anchor:hover {
+    text-decoration: underline;
+}
+.close-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.summarizer-close-button {
+    position: absolute; 
+    top: 0px; 
+    right: 5px; 
+    background: transparent; 
+    border: none; 
+    cursor: pointer; 
+    font-size: 30px;
+}
+
+
+.content-wrapper {
+    padding: 10px 0;
+}
+
+.summary-loader {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.loader-gif {
+    width: 24px;
+    height: 24px;
+    margin-right: 5px;
+}
+
+.summarizer-title {
+    font-size: 1.3em;
+    margin-bottom: 1px; 
+    text-align: center; 
+    font-weight: bold;
+}
+
+
+.summary-divider{
+    flex-grow: 1; 
+    height: 1px; 
+    background-color: black; 
+    margin: 10px 10px;
+
+}
+
+.summarizerButton{
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

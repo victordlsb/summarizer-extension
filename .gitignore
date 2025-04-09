@@ -1,0 +1,13 @@
+.DS_Store
+build/*
+*/.DS_Store
+*.zip
+build/firefox/options.js
+build/firefox/options.html
+build/firefox/manifest.json
+build/firefox/background.js
+build/chrome/options.js
+build/chrome/options.html
+build/chrome/manifest.json
+build/chrome/background.js
+build/.DS_Store

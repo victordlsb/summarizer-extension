@@ -1,0 +1,1873 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <script>
+ var country = 'ES';
+ var isSpainOrLatamUser = true;
+</script>
+  <title>Parecía imposible que las lluvias de marzo fueran una mala noticia para alguien. Hasta que llegaron las sandías y los melones</title>
+<script>
+ WSL2 = window.WSL2 || {};
+ WSL2.config = WSL2.config || {};
+ WSL2.config.title = "Parecía imposible que las lluvias de marzo fueran una mala noticia para alguien. Hasta que llegaron las sandías y los melones";
+</script>
+ <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta name="description" content="Las descomunales lluvias de marzo han dejado buena parte del campo fuera de juego y, durante semanas, la respuesta generalizada ha sido el pasmo. No es para...">
+ <script>WSL2.config.metaDescription = "Las descomunales lluvias de marzo han dejado buena parte del campo fuera de juego y, durante semanas, la respuesta generalizada ha sido el pasmo. No es para..."</script>
+  <meta name="news_keywords" content="Alimentación, meteorología, Agricultura, sequía, Ecología y naturaleza">
+ <meta property="fb:admins" content="100000716994885">
+<meta property="fb:pages" content="41267802635">
+<meta property="fb:app_id" content="355823546895">
+<meta name="application-name" content="Xataka">
+<meta name="msapplication-tooltip" content="Gadgets y tecnología: últimas tecnologías en electrónica de consumo - XATAKA">
+<meta name="msapplication-starturl" content="https://www.xataka.com">
+<meta name="mobile-web-app-capable" content="yes">
+                 <meta property="og:image" content="https://i.blogs.es/592362/captura-de-pantalla-2025-04-02-a-las-10.45.56/840_560.png">
+      <meta property="og:title" content="Parecía imposible que las lluvias de marzo fueran una mala noticia para alguien. Hasta que llegaron las sandías y los melones">
+  <meta property="og:description" content="Las descomunales lluvias de marzo han dejado buena parte del campo fuera de juego y, durante semanas, la respuesta generalizada ha sido el pasmo. No es para...">
+  <meta property="og:url" content="https://www.xataka.com/ecologia-y-naturaleza/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones">
+  <meta property="og:type" content="article">
+  <meta property="og:updated_time" content="2025-04-02T10:00:13Z">
+    <meta name="DC.Creator" content="Javier Jiménez">
+  <meta name="DC.Date" content="2025-04-02">
+  <meta name="DC.date.issued" content="2025-04-02T10:00:13Z">
+  <meta name="DC.Source" content="Xataka">
+  <meta property="article:modified_time" content="2025-04-02T10:00:13Z">
+  <meta property="article:published_time" content="2025-04-02T10:00:13Z">
+  <meta property="article:section" content="ecologia-y-naturaleza">
+  <meta name="robots" content="max-image-preview:large">
+     <meta property="article:tag" content="Alimentación">
+     <meta property="article:tag" content="meteorología">
+     <meta property="article:tag" content="Agricultura">
+     <meta property="article:tag" content="sequía">
+          <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://i.blogs.es/592362/captura-de-pantalla-2025-04-02-a-las-10.45.56/1366_521.png"><meta name="twitter:site" content="@xataka"><meta name="twitter:title" content="Parecía imposible que las lluvias de marzo fueran una mala noticia para alguien. Hasta que llegaron las sandías y los melones"><meta name="twitter:description" content="Las descomunales lluvias de marzo han dejado buena parte del campo fuera de juego y, durante semanas, la respuesta generalizada ha sido el pasmo. No es para..."><meta name="twitter:creator" content="@dronte">         <script>
+  window.dataLayer = [{"site":"XTK","siteSection":"postpage","vertical":"Technology","amp":"no","postId":316939,"postUrl":"https:\/\/www.xataka.com\/ecologia-y-naturaleza\/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones","publishedDate":"2025-04-02","modifiedDate":"2025-04-02T10:00","categories":"ecologia-y-naturaleza","tags":"alimentacion,meteorologia,agricultura,sequia","videoContent":false,"partner":false,"blockLength":14,"author":"javier jim\u00e9nez","postType":"normal","linksToEcommerce":"none","ecomPostExpiration":"not_classified","mainCategory":"ecologia-y-naturaleza","postExpiration":null,"wordCount":627}];
+ window.dataLayer[0].visitor_country = country;
+ </script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L3X96ZX03D"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ window.WSL2 = window.WSL2 || {};
+ window.WSL2.pageViewParams = {"site":"XTK","site_section":"postpage","vertical":"Technology","amp":"no","visitor_country":"ES","content_id":316939,"post_url":"https:\/\/www.xataka.com\/ecologia-y-naturaleza\/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones","content_publication_date":"2025-04-02","modified_date":"2025-04-02T10:00","page_category":"ecologia-y-naturaleza","content_tags":"alimentacion,meteorologia,agricultura,sequia","has_video_content":false,"global_branded":false,"block_length":14,"content_author_id":"javier jim\u00e9nez","post_type":"normal","links_to_ecommerce":"none","ecompost_expiration":"not_classified","mainCategory":"ecologia-y-naturaleza","post_expiration":null,"word_count":627};
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+ gtag('config', 'G-L3X96ZX03D', {
+  send_page_view: false
+ });
+ gtag('event', 'page_view', {"site":"XTK","site_section":"postpage","vertical":"Technology","amp":"no","visitor_country":"ES","content_id":316939,"post_url":"https:\/\/www.xataka.com\/ecologia-y-naturaleza\/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones","content_publication_date":"2025-04-02","modified_date":"2025-04-02T10:00","page_category":"ecologia-y-naturaleza","content_tags":"alimentacion,meteorologia,agricultura,sequia","has_video_content":false,"global_branded":false,"block_length":14,"content_author_id":"javier jim\u00e9nez","post_type":"normal","links_to_ecommerce":"none","ecompost_expiration":"not_classified","mainCategory":"ecologia-y-naturaleza","post_expiration":null,"word_count":627});
+ window.WSL2.gtag = gtag;
+</script>  <script>
+
+ var gdprAppliesGlobally = true;
+
+ (function() {
+  function n() {
+   if (!window.frames.__cmpLocator) {
+    if (document.body && document.body.firstChild) {
+     var e = document.body;
+     var t = document.createElement("iframe");
+     t.style.display = "none";
+     t.name = "__cmpLocator";
+     t.title = "cmpLocator";
+     e.insertBefore(t, e.firstChild)
+    } else {
+     setTimeout(n, 5)
+    }
+   }
+  }
+
+  function e(e, t, n) {
+   if (typeof n !== "function") {
+    return
+   }
+   if (!window.__cmpBuffer) {
+    window.__cmpBuffer = []
+   }
+   if (e === "ping") {
+    n({
+     gdprAppliesGlobally: window.gdprAppliesGlobally,
+     cmpLoaded: false
+    }, true)
+   } else {
+    window.__cmpBuffer.push({
+     command: e,
+     parameter: t,
+     callback: n
+    })
+   }
+  }
+  e.stub = true;
+
+  function t(r) {
+   if (!window.__cmp || window.__cmp.stub !== true) {
+    return
+   }
+   if (!r.data) {
+    return
+   }
+   var a = typeof r.data === "string";
+   var e;
+   try {
+    e = a ? JSON.parse(r.data) : r.data
+   } catch (t) {
+    return
+   }
+   if (e.__cmpCall) {
+    var o = e.__cmpCall;
+    window.__cmp(o.command, o.parameter, function(e, t) {
+     var n = {
+      __cmpReturn: {
+       returnValue: e,
+       success: t,
+       callId: o.callId
+      }
+     };
+     r.source.postMessage(a ? JSON.stringify(n) : n, "*")
+    })
+   }
+  }
+  if (typeof window.__cmp !== "function") {
+   window.__cmp = e;
+   if (window.addEventListener) {
+    window.addEventListener("message", t, false)
+   } else {
+    window.attachEvent("onmessage", t)
+   }
+  }
+  n()
+ })();
+
+
+ (function(e) {
+  var t = document.createElement("script");
+  t.id = "spcloader";
+  t.async = true;
+  t.src = "https://sdk.privacy-center.org/" + e + "/loader.js?target=" + document.location.hostname;
+  t.charset = "utf-8";
+  var n = document.getElementsByTagName("script")[0];
+  n.parentNode.insertBefore(t, n)
+ })("7bd10a97-724f-47b3-8e9f-867f0dea61c8");
+
+ function scrollListener(e) {
+  var o = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight || 0,
+   n = Math.max(document.body.scrollHeight || 0, document.documentElement.scrollHeight || 0, document.body.offsetHeight || 0, document.documentElement.offsetHeight || 0, document.body.clientHeight || 0, document.documentElement.clientHeight || 0);
+  30 <= (window.pageYOffset || document.body.scrollTop || document.documentElement.scrollTop || 0) / (n - o) * 100 && (Didomi.setUserAgreeToAll(), window.removeEventListener("scroll", scrollListener))
+ }
+
+ window.didomiOnReady = window.didomiOnReady || [], window.didomiOnReady.push(function(e) {
+  e.notice.isVisible() && window.addEventListener("scroll", scrollListener)
+ });
+
+</script>
+<script type="didomi/javascript">
+ if (!window.frames['__tcfapiLocator']) {
+  if (document.head) {
+   var head = document.head,
+   iframe = document.createElement('iframe');
+   iframe.style.cssText = 'display:none';
+   iframe.name = '__tcfapiLocator';
+   head.appendChild(iframe);
+  }
+ }
+</script><script>
+ window.WSL2 = window.WSL2 || {};
+ WSL2.config = WSL2.config || {};
+ WSL2.config.enableDidomiOverlay = 1;
+</script>
+
+                       
+
+
+
+
+  
+
+
+
+
+
+<script type="application/ld+json">
+ {"@context":"https:\/\/schema.org","@type":"Article","mainEntityOfPage":"https:\/\/www.xataka.com\/ecologia-y-naturaleza\/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones","name":"Parecía imposible que las lluvias de marzo fueran una mala noticia para alguien. Hasta que llegaron las...","headline":"Parecía imposible que las lluvias de marzo fueran una mala noticia para alguien. Hasta que llegaron las...","articlebody":"Las descomunales lluvias de marzo han dejado buena parte del campo fuera de juego y, durante semanas, la respuesta generalizada ha sido el pasmo. No es para menos: en el conjunto de España se han acumulado 149 l\/m², 2,5 más de lo habitual. Los beneficios son enormes: no solo son los pantanos llenos; sino los campos de cereal, viñedo, olivar y frutos secos en su mejor momento y un momento dulce en la ganadería ovina, caprina y bovina de leche. Pero también hay grandes perjudicados. ¿A quién le puede ir mal el agua? Paradójicamente, a muchos cultivos: algunas hortalizas (desde el brócoli a las lechugas), las fresas de Huelva, la cosecha de patatas, las leguminosas y, sobre todo, al melón y la sandía. En Xataka Tras las lluvias de marzo y con los embalses de media España a rebosar, comienza otra batalla: quién se queda esa agua ¿Es por las inundaciones? En buena parte sí. En Murcia, se han inundado más de 5.000 hectáreas de hortaliza y en Almería se han visto afectados cultivos (tanto al aire libre como bajo invernadero). Se entiende así que, durante todo este tiempo, la asfixia radicular ha sido uno de los grandes temores de los agricultores. En esencia, hablamos de un fenómeno que se produce cuando las raíces de las plantas no reciben suficiente oxígeno. Esto suele ocurrir cuando hay un exceso de agua en el suelo; y, de hecho, puede ocurrir aunque la &#039;inundación&#039; dure poco tiempo. No obstante, hay problemas más allá de la asfixia. Un buen ejemplo es el garbanzo. &amp;nbsp;En su caso no se ha asfixiado porque, en fin, ni siquiera ha llegado a plantarse en provincias como Sevilla (que concentra un tercio de la producción nacional). Como dice el secretario general de COAG Sevilla en El Debate, el garbanzo tiene que estar más de 100 días en el campo y &quot;este año, con suerte, pasará 60&quot;. Incluso en el supuesto de que la meteorología acompañe, la campaña del garbanzo va a ser muy mala. Y, además, es algo inevitable porque los agricultores no pueden plantar otra cosa: las normas de la política agraria común les obligan a plantar un determinado tanto por ciento de su tierra con leguminosas. Y luego tenemos la humedad. La lluvia ha provocado que los niveles de humedad se disparen y, con ellos, la &quot;proliferación de plagas y enfermedades como el botrytis (provocado por un hongo) o el mildiu&quot; (agrupa a varias enfermedades que dañan tallos y hojas)&quot; que están pudriendo las matas. ¿Y qué le pasa a los melones y las sandías? Otra cosa distinta. En el caso de estos cultivos, la situación es &quot;preocupante&quot; porque las lluvias llegaron en &quot;el momento más delicado, la polinización&quot;. Esto ha retrasado significativamente la producción hasta el punto que parece inviable que las sandías tempranas puedan llegar al mercado en sus fechas habituales. La esperanza del sector, según explican desde COAG, es que se replante gran aprte de la producción. Si no ocurre ningún imprevisto, eso permitiría llegar al mercado de sandías y melones tardíos con fuerza. Pero, claro, todo depende de lo que pase en los próximos días. No está de más recordar que en los últimos años, estas dos frutas de verano han protagonizado constantes polémicas por sus altos precios y sus problemas de distribución. Todo por hacer. Las grandes incógnitas ahora son dos: qué gestión hídrica permitirán las Confederaciones Hidrográficas y el resto de administraciones, por un lado. Y cómo de flexible será la Unión Europea con las restricciones de productos fitosanitarios en un contexto climáticamente extremo. No obstante, hay muchas más cosas encima de la mesa. Muchos más problemas, muchas más oportunidades. Sobre todo, ante la perspectiva de que esta sea la nueva normalidad.&amp;nbsp; Imagen | Townsend Walton En Xataka | Ante el regreso de las lluvias a España, el campo mira al cielo preocupado: hay decenas de cultivos con semanas de retraso","datePublished":"2025-04-02T10:00:13Z","dateModified":"2025-04-02T10:00:13Z","description":"Las descomunales lluvias de marzo han dejado buena parte del campo fuera de juego y, durante semanas, la respuesta generalizada ha sido el pasmo. No es para...","publisher":{"@type":"Organization","name":"Xataka","url":"https:\/\/www.xataka.com","sameAs":["https:\/\/x.com\/xataka","https:\/\/www.facebook.com\/Xataka","https:\/\/www.youtube.com\/user\/xatakatv","https:\/\/instagram.com\/xataka","https:\/\/www.linkedin.com\/company\/11275845\/"],"logo":{"@type":"ImageObject","url":"https:\/\/img.weblogssl.com\/css\/xataka\/p\/amp\/images\/logo.png?v=1743491402","width":600,"height":60},"Parentorganization":"Webedia"},"image":{"@type":"ImageObject","url":"https:\/\/i.blogs.es\/592362\/captura-de-pantalla-2025-04-02-a-las-10.45.56\/1366_2000.png","width":"1200","height":"900"},"author":{"@type":"Person","Jobtitle":"Editor Senior - Ciencia","name":"Javier Jiménez","sameAs":["https:\/\/twitter.com\/dronte"],"url":"https:\/\/www.xataka.com\/autor\/javier-jimenez"},"url":"https:\/\/www.xataka.com\/ecologia-y-naturaleza\/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones","thumbnailUrl":"https:\/\/i.blogs.es\/592362\/captura-de-pantalla-2025-04-02-a-las-10.45.56\/1366_2000.png","articleSection":"Ecología y naturaleza","creator":"Javier Jiménez","keywords":"Alimentación, meteorología, Agricultura, sequía, Ecología y naturaleza"}
+</script>
+   <link rel="preconnect" href="https://i.blogs.es">
+<link rel="shortcut icon" href="https://img.weblogssl.com/css/xataka/p/common/favicon.ico" type="image/ico">
+<link rel="apple-touch-icon" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon-57-precomposed.png">
+ <link rel="preconnect" href="https://static.criteo.net/" crossorigin>
+ <link rel="dns-prefetch" href="https://static.criteo.net/">
+ <link rel="preconnect" href="https://ib.adnxs.com/" crossorigin>
+ <link rel="dns-prefetch" href="https://ib.adnxs.com/">
+ <link rel="preconnect" href="https://bidder.criteo.com/" crossorigin>
+ <link rel="dns-prefetch" href="https://bidder.criteo.com/">
+   <link rel="preload" as="image" fetchpriority="high" type="image/jpeg" href="https://i.blogs.es/592362/captura-de-pantalla-2025-04-02-a-las-10.45.56/500_333.png" media="(max-width: 500px)">
+  <link rel="preload" as="image" fetchpriority="high" type="image/jpeg" href="https://i.blogs.es/592362/captura-de-pantalla-2025-04-02-a-las-10.45.56/840_560.png" media="(min-width: 501px) and (max-width: 1199px)">
+  <link rel="preload" as="image" fetchpriority="high" type="image/jpeg" href="https://i.blogs.es/592362/captura-de-pantalla-2025-04-02-a-las-10.45.56/1200_800.png" media="(min-width: 1200px)">
+ <link rel="preload" as="style" href="https://img.weblogssl.com/css/xataka/p/xataka-d/main.css?v=1743491402">
+   <link rel="alternate" type="application/rss+xml" title="Xataka - todas las noticias" href="/index.xml">
+   <link rel="image_src" href="https://i.blogs.es/592362/captura-de-pantalla-2025-04-02-a-las-10.45.56/75_75.png">
+      <link rel="canonical" href="https://www.xataka.com/ecologia-y-naturaleza/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones">
+   
+    <link rel="preload" href="https://img.weblogssl.com/g/r/fonts/tofino_regular-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" as="style" type="text/css" crossorigin="anonymous">
+ <script async src="https://scripts.ssm.codes/d/xatakacom.js"></script>
+   <link rel="amphtml" href="https://www.xataka.com/ecologia-y-naturaleza/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones/amp" >
+  <link rel="stylesheet" type="text/css" href="https://img.weblogssl.com/css/xataka/p/xataka-d/main.css?v=1743491402">
+     </head>
+<body class="js-desktop  prod js-body  ">
+       <script type="didomi/javascript">
+     function sendcomscore() {
+
+ var s = document.createElement("script"),
+ el = document.getElementsByTagName("script")[0];
+ s.setAttribute("data-vendor", "iab:77");
+ s.text = 'var cs_ucfr = ""; \
+ if (Didomi.getUserStatusForVendor(77)) { \
+  var cs_ucfr = "1"; \
+ } else if (Didomi.getUserStatusForVendor(77) == false) { \
+  var cs_ucfr = "0"; \
+ } \
+ \
+ var _comscore = _comscore || []; \
+ var configs = { \
+  c1: "2", \
+  c2: "6035191", \
+  cs_ucfr: cs_ucfr \
+ }; \
+ var keyword = keyword || ""; \
+ if (keyword) { \
+  configs.options = { \
+   url_append: "comscorekw=" + keyword \
+  }; \
+ } \
+ _comscore.push(configs); \
+ var s = document.createElement("script"), \
+ el = document.getElementsByTagName("script")[0]; \
+ \
+ s.src = "https://sb.scorecardresearch.com/cs/6035191/beacon.js"; \
+ \
+ window.didomiEventListeners = []; \
+ \
+ el.parentNode.insertBefore(s, el);';
+ el.parentNode.insertBefore(s, el);
+}
+
+if(Didomi.getUserStatusForVendor(77) == undefined){
+
+ window.didomiEventListeners = window.didomiEventListeners || [];
+ window.didomiEventListeners.push({
+  event: 'consent.changed',
+  listener: function(context) {
+
+  sendcomscore()
+  }
+ });
+} else {
+ sendcomscore()
+}   </script>
+
+<script>
+ dataLayer.push({
+  contentGroup1: "post",
+  contentGroup2: "javier jiménez",
+  contentGroup3: "ecologia-y-naturaleza",
+  contentGroup4: "normal",
+  contentGroup5: "250402",
+ });
+</script>
+ <div id="publicidad"></div>
+<script>
+ function hash(string) {
+  const utf8 = new TextEncoder().encode(string);
+  return crypto.subtle.digest('SHA-256', utf8).then((hashBuffer) => {
+   const hashArray = Array.from(new Uint8Array(hashBuffer));
+   const hashHex = hashArray
+    .map((bytes) => bytes.toString(16).padStart(2, '0'))
+    .join('');
+   return hashHex;
+  });
+ }
+ const populateHashedEmail = () => {
+  const loggedin = WSL2.User.isUserLoggedIn();
+  if (loggedin) {
+   const userEmail = WSL2.User.getUserEmail();
+   hash(userEmail).
+    then((hashedEmail) => {
+     jad.config.publisher.hashedId = {
+      sha256email: hashedEmail,
+     };
+    });
+  }   
+ }
+ WSL2.config.enablePerformanceImprovements = "0";
+ window.hasAdblocker = getComputedStyle(document.querySelector('#publicidad')).display === 'none';
+                        WSL2.config.dynamicIU = "/1018282/xataka/postpage";
+  window.jad = window.jad || {};
+ jad.cmd = jad.cmd || [];
+ let swrap = document.createElement("script");
+ if ('1' === WSL2.config.enablePerformanceImprovements) {
+  swrap.defer = true;
+ }
+ else {
+  swrap.async = true;
+ }
+
+ const jadTargetingData = {"site":"XTK","siteSection":"postpage","vertical":"Technology","amp":"no","visitor_country":"ES","postId":316939,"postUrl":"https:\/\/www.xataka.com\/ecologia-y-naturaleza\/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones","publishedDate":"2025-04-02","modifiedDate":"2025-04-02T10:00","categories":"ecologia-y-naturaleza","tags":"alimentacion,meteorologia,agricultura,sequia","videoContent":false,"partner":false,"blockLength":14,"author":"javier jim\u00e9nez","postType":"normal","linksToEcommerce":"none","ecomPostExpiration":"not_classified","mainCategory":"ecologia-y-naturaleza","postExpiration":null,"wordCount":627};
+   {
+   const postCreationDate = 1743588013
+   const currentDate = new Date();
+   const currentTimestamp = currentDate.getTime();
+   const postTimeStamp = new Date(postCreationDate*1000).getTime();
+   const sixDaysMilliseconds = 6 * 60 * 24 * 60 * 1000;
+   jadTargetingData["recency"] = currentTimestamp - postTimeStamp > sixDaysMilliseconds ? 'old' : 'new';
+   const currentHour = (currentDate.getUTCHours() + 2) % 24;
+   jadTargetingData["hour"] = String(currentHour).length == 1 ? '0' + currentHour : currentHour;
+  }
+ 
+ let upv = +sessionStorage.getItem("upv");
+ if (upv) {
+  upv += 1;
+ } else {
+  upv = 1;
+ }
+ sessionStorage.setItem("upv", upv);
+ jadTargetingData["upv"] = upv;
+
+ swrap.src = "https://cdn.lib.getjad.io/library/1018282/xataka";
+ swrap.setAttribute("importance", "high");
+ let g = document.getElementsByTagName("head")[0];
+ const europeanCountriesCode = [
+  'AD', 'AL', 'AT', 'AX', 'BA', 'BE', 'BG', 'BY', 'CH', 'CY', 'CZ', 'DE', 'DK',
+  'EE', 'ES', 'FI', 'FO', 'FR', 'GB', 'GG', 'GI', 'GR', 'HR', 'HU', 'IE', 'IM',
+  'IS', 'IT', 'JE', 'LI', 'LT', 'LU', 'LV', 'MC', 'MD', 'ME', 'MK', 'MT', 'NL',
+  'NO', 'PL', 'PT', 'RO', 'RS', 'RU', 'SE', 'SI', 'SJ', 'SK', 'SM', 'UA', 'VA'
+ ];
+ window.WSL2 = window.WSL2 || {};
+ window.WSL2.isEuropeanVisitor = europeanCountriesCode.includes(window.country);
+ const enableCmpChanges = "1";
+ let cmpObject = {
+   includeCmp: window.WSL2.isEuropeanVisitor ? false : true,
+   name: window.WSL2.isEuropeanVisitor ? 'didomi' : 'none'
+  }
+  if (window.WSL2.isEuropeanVisitor && "1" == enableCmpChanges) {
+   cmpObject = {
+    ...cmpObject,
+    "siteId": "7bd10a97-724f-47b3-8e9f-867f0dea61c8",
+     "noticeId": "n7j2DGhK",
+    "paywall": {
+     "clientId": "AeAcL5krxDiL6T0cdEbtuhszhm0bBH9S0aQeZwvgDyr0roxQA6EJoZBra8LsS0RstogsYj54y_SWXQim",
+     "planId": "P-8MN24328CY367915SMWG2EII",
+     "tosUrl": "https://weblogs.webedia.es/condiciones-uso.html",
+     "touUrl": "https://weblogs.webedia.es/condiciones-uso.html",
+     "privacyUrl": "https://weblogs.webedia.es/cookies.html" ,
+     "language":  "es"
+    }
+   }
+  }
+ g.parentNode.insertBefore(swrap, g);
+ jad.cmd.push(function() {
+
+  jad.public.setConfig({
+   page: "/1018282/xataka/postpage", 
+         
+    pagePositions: [
+        'top',
+   'cen1',
+   'cen2',
+   'footer',
+   'oop',
+   'cintillo',
+   '1',
+   'inread1',
+   '2',
+   '3',
+ 
+    ],
+    elementsMapping: {
+        "top": "div-gpt-top",
+   "cen1": "div-gpt-cen",
+   "cen2": "div-gpt-cen2",
+   "footer": "div-gpt-bot2",
+   "oop": "div-gpt-int",
+   "cintillo": "div-gpt-int2",
+   "1": "div-gpt-lat",
+   "inread1": "div-gpt-out",
+   "2": "div-gpt-lat2",
+   "3": "div-gpt-lat3",
+ 
+    },
+    targetingOnPosition: {
+               "top": {
+     'fold': ['atf']
+    },
+               "cen1": {
+     'fold': ['btf']
+    },
+               "cen2": {
+     'fold': ['btf']
+    },
+               "footer": {
+     'fold': ['btf']
+    },
+               "oop": {
+     'fold': ['mtf']
+    },
+               "cintillo": {
+     'fold': ['mtf']
+    },
+               "1": {
+     'fold': ['atf']
+    },
+               "inread1": {
+     'fold': ['mtf']
+    },
+               "2": {
+     'fold': ['mtf']
+    },
+               "3": {
+     'fold': ['mtf']
+    },
+               "4": {
+     'fold': ['mtf']
+    },
+               "5": {
+     'fold': ['mtf']
+    },
+               "6": {
+     'fold': ['mtf']
+    },
+               "7": {
+     'fold': ['mtf']
+    },
+               "8": {
+     'fold': ['mtf']
+    },
+      
+    },
+      targeting: jadTargetingData,
+   interstitialOnFirstPageEnabled: false,
+   cmp: cmpObject,
+   wemass: {
+    targeting: {
+     page: {
+      type: jadTargetingData.siteSection ?? "",
+      content: {
+       categories: jadTargetingData.categories ? jadTargetingData.categories.split(',') : [""],
+      },
+      article: {
+       id: jadTargetingData.postId ?? "",
+       title: WSL2.config.title ?? "",
+       description: WSL2.config.metaDescription ?? "",
+       topics: Array.isArray(jadTargetingData.tags)
+          ? jadTargetingData.tags
+          : jadTargetingData.tags
+          ? jadTargetingData.tags.split(',')
+          : [""],
+       authors: jadTargetingData.author ? jadTargetingData.author.split(',') : [""],
+       modifiedAt: jadTargetingData.modifiedDate ? new Date(jadTargetingData.modifiedDate).toISOString() : "",
+       publishedAt: jadTargetingData.publishedDate ? new Date(jadTargetingData.modifiedDate).toISOString() : "",
+       premium: false,
+       wordCount: jadTargetingData.wordCount ?? "",
+       paragraphCount: jadTargetingData.blockLength ?? "",
+       section: jadTargetingData.mainCategory ?? "",
+       subsection: "",
+      },
+      user: {
+       type: "",
+       age: null,
+       gender: "",
+      },
+     },
+    },
+   },
+  });
+
+  jad.public.loadPositions();
+
+  jad.public.displayPositions();
+ });
+ if(!window.hasAdblocker) {
+  window.addEventListener('load', () => {
+   populateHashedEmail();
+   WSL2.Events.on('loginSuccess', populateHashedEmail);
+   WSL2.Events.on('onLogOut', () => {
+    jad.config.publisher.hashedId = {};
+   });
+  });
+ }
+</script> 
+<div class="customize-me">
+ <div class="head-content-favs">
+     <div class="head-container head-container-with-ad head-container-with-corner m-favicons-compact m-head-masthead">
+ <div class="head head-with-ad is-init">
+     <div class="head-favicons-container">
+ <nav class="head-favicons">
+  <div class="head-favicons-index head-webedia-logo">
+   <a id="favicons-toggle" href="https://www.webedia.es/" data-target="#head-favicons"><abbr title="Webedia">Webedia</abbr></a>
+  </div>
+ </nav>
+</div>    <div class="masthead-site-lead ">
+ <div class="masthead-container">
+  <div class="masthead-logo">
+   <div class="masthead-logo-brand">
+    <a href="/" class="masthead-brand">Xataka</a>
+   </div>
+     </div>
+       <nav class="masthead-actions">
+    <ul class="masthead-actions-list">
+     <li class="masthead-actions-list-item"><a href="#sections" class="masthead-actions-menu m-v1 js-toggle" data-searchbox="#search-field-1">Menú</a></li>
+     <li class="masthead-actions-list-item"><a href="#headlines" class="masthead-actions-nuevo m-v1 js-toggle">Nuevo</a></li>
+    </ul>
+   </nav>
+   </div>
+</div>
+     <div class="masthead-site-nav-container js-nano-container" id="showSwipecard">
+ <nav class="masthead-site-nav">
+     <a class="masthead-nav-search js-toggle" data-searchbox="#search-field-2" href="#search"></a>
+    <ul class="masthead-nav-topics">
+            <li class="masthead-nav-topics-item">
+   <a class="masthead-nav-topics-anchor" href="https://www.xataka.com/categoria/analisis">ANÁLISIS</a>
+  </li>
+    <li class="masthead-nav-topics-item">
+   <a class="masthead-nav-topics-anchor" href="https://www.xataka.com/categoria/seleccion">XATAKA SELECCIÓN</a>
+  </li>
+    <li class="masthead-nav-topics-item">
+   <a class="masthead-nav-topics-anchor" href="https://www.xataka.com/categoria/moviles">MÓVILES</a>
+  </li>
+    <li class="masthead-nav-topics-item">
+   <a class="masthead-nav-topics-anchor" href="https://www.xataka.com/categoria/medicina-y-salud">CIENCIA</a>
+  </li>
+    <li class="masthead-nav-topics-item">
+   <a class="masthead-nav-topics-anchor" href="https://www.xataka.com/consejos/mejores-guias-compra-moviles-informatica-audio-tecnologia-xataka">GUÍAS DE COMPRA</a>
+  </li>
+    <li class="masthead-nav-topics-item">
+   <a class="masthead-nav-topics-anchor" href="https://www.xataka.com/categoria/movilidad">MOVILIDAD</a>
+  </li>
+    <li class="masthead-nav-topics-item">
+   <a class="masthead-nav-topics-anchor" href="https://www.xataka.com/categoria/magnet">MAGNET</a>
+  </li>
+      </ul>
+  <ul class="masthead-nav-social">
+    <li class="masthead-nav-social-item"><a href="https://whatsapp.com/channel/0029VaAOhno4tRrjQkLKjI2u" class="masthead-nav-social-anchor masthead-social-whatsapp" rel="nofollow">WhatsApp</a></li>
+    <li class="masthead-nav-social-item"><a href="https://www.tiktok.com/@xataka" class="masthead-nav-social-anchor masthead-social-tiktok" rel="nofollow">Tiktok</a></li>
+    <li class="masthead-nav-social-item"><a href="https://telegram.me/xataka" class="masthead-nav-social-anchor masthead-social-telegram" rel="nofollow">Telegram</a></li>
+    <li class="masthead-nav-social-item"><a href="https://instagram.com/xataka" class="masthead-nav-social-anchor masthead-social-instagram" rel="nofollow">Instagram</a></li>
+    <li class="masthead-nav-social-item"><a href="https://www.youtube.com/user/xatakatv?sub_confirmation=1" class="masthead-nav-social-anchor masthead-social-youtube" rel="nofollow">Youtube</a></li>
+    <li class="masthead-nav-social-item"><a href="https://twitter.com/xataka" class="masthead-nav-social-anchor masthead-social-x" rel="nofollow">Twitter</a></li>
+ </ul>
+ </nav>
+</div>
+   </div>
+</div>
+ <div class="masthead-nav-brandsections js-branded-tabs">
+ <div class="masthead-nav-brandsections-inner">
+  <span class="masthead-nav-brandsections-prev js-prev-btn-container" style="display:none;">
+   <button class="masthead-nav-brandsections-prev-btn js-prev-btn"></button>
+  </span>
+  <span class="masthead-nav-brandsections-next js-next-btn-container" style="display:none;">
+   <button class="masthead-nav-brandsections-next-btn js-next-btn"></button>
+  </span>
+  <ul class="masthead-nav-brandsections-list js-tabs-list">
+   <li class="masthead-nav-brandsections-item">PARTNERS</li>
+       <li class="masthead-nav-brandsections-item">
+     <a title="Life´s Good by LG" href="/tecnologialg" class="js-partner-tab masthead-nav-brandsections-link tecnologialg">
+      Life´s Good by LG
+     </a>
+    </li>
+       <li class="masthead-nav-brandsections-item">
+     <a title="muévete con Renault" href="/mueveteconrenault" class="js-partner-tab masthead-nav-brandsections-link mueveteconrenault">
+      muévete con Renault
+     </a>
+    </li>
+       <li class="masthead-nav-brandsections-item">
+     <a title="Innovación Volvo" href="/innovacionvolvo" class="js-partner-tab masthead-nav-brandsections-link innovacionvolvo">
+      Innovación Volvo
+     </a>
+    </li>
+       <li class="masthead-nav-brandsections-item">
+     <a title="Make it realme" href="/makeitrealme" class="js-partner-tab masthead-nav-brandsections-link makeitrealme">
+      Make it realme
+     </a>
+    </li>
+       <li class="masthead-nav-brandsections-item">
+     <a title="HP impulsa tu pyme" href="/hpimpulsatupyme" class="js-partner-tab masthead-nav-brandsections-link hpimpulsatupyme">
+      HP impulsa tu pyme
+     </a>
+    </li>
+     </ul>
+ </div>
+</div>
+
+    <div class="ad ad-top">
+  <div class="ad-box" id="div-gpt-top">
+     </div>
+   </div>
+   
+    <div class="page-container ">
+         <div class="section-deeplinking-container m-deeplinking-news m-deeplinking-post o-deeplinking-section">
+  <div class="section-deeplinking o-deeplinking-section_wrapper">
+       <div class="section-deeplinking-wrap">
+     <span class="section-deeplinking-header">HOY SE HABLA DE</span>
+     <ul id="js-deeplinking-news-nav-links" class="section-deeplinking-list">
+             <li class="section-deeplinking-item"><a href="https://www.xataka.com/nuevo/nintendo-switch-2-seguir-conferencia-directo" class="section-deeplinking-anchor">Nintendo Switch 2</a></li>
+             <li class="section-deeplinking-item"><a href="https://www.xataka.com/empresas-y-economia/repliegue-microsoft-china-no-se-detiene-acaba-cerrar-laboratorio-clave-ia-shanghai-scmp" class="section-deeplinking-anchor">China</a></li>
+             <li class="section-deeplinking-item"><a href="https://www.genbeta.com/inteligencia-artificial/openai-despidio-a-sam-altman-como-ceo-que-se-supiera-muy-bien-que-sabemos-libro" class="section-deeplinking-anchor">Sam Altman</a></li>
+             <li class="section-deeplinking-item"><a href="https://www.xataka.com/videojuegos/nuevo-exito-mayor-descalabro-su-historia-todo-que-se-juega-nintendo-switch-2" class="section-deeplinking-anchor">Nintendo</a></li>
+             <li class="section-deeplinking-item"><a href="https://www.xatakamovil.com/movil-y-sociedad/elon-musk-saludo-al-planeta-ahora-suecia-tiene-problema-ninos-reclutados-ultras-a-traves-movil" class="section-deeplinking-anchor">Elon Musk</a></li>
+             <li class="section-deeplinking-item"><a href="https://www.genbeta.com/a-fondo/puedes-hacer-declaracion-renta-2024-estas-casillas-que-siempre-toca-revisar" class="section-deeplinking-anchor">Declaración de la Renta</a></li>
+             <li class="section-deeplinking-item"><a href="https://www.directoalpaladar.com/actualidad-1/elon-musk-ha-encontrado-chef-para-su-restaurante-tesla-creador-delicias-famoso-reinventar-queso-americano" class="section-deeplinking-anchor">Tesla</a></li>
+             <li class="section-deeplinking-item"><a href="https://www.directoalpaladar.com/cultura-gastronomica/caviar-sardinas-como-gustos-generacion-z-estan-redefiniendo-lujo-gastronomico" class="section-deeplinking-anchor">Generación Z</a></li>
+             <li class="section-deeplinking-item"><a href="https://www.directoalpaladar.com/seleccion/aceite-oliva-pilar-dieta-mediterranea-gracias-a-esta-oferta-no-tenemos-que-renunciar-a" class="section-deeplinking-anchor">Aceite de oliva</a></li>
+             <li class="section-deeplinking-item"><a href="https://www.xataka.com/seleccion/nueva-oferta-samsung-galaxy-s25-ultra-me-ha-dejado-claro-version-1-tb-me-sale-rentable" class="section-deeplinking-anchor">Samsung Galaxy S25</a></li>
+           </ul>
+     <div id="js-deeplinking-news-nav-btn" class="section-deeplinking-btn" style="display:none"></div>
+    </div>
+     </div>
+ </div>
+
+         <div class="content-container">
+    <main>
+     <article class="article article-normal">
+       <header class="post-normal-header">
+                 <div class="post-title-container">
+  <h1 class="post-title">
+      Parecía imposible que las lluvias de marzo fueran una mala noticia para alguien. Hasta que llegaron las sandías y los melones    </h1>
+</div>
+          <section class="post-entradilla">
+  <div class="post-entradilla-inner">
+   <h2>Parad&#243;jicamente, las lluvias han perjudicado a muchos productos. Pero a ninguno tanto como a las frutas estrellas del verano</h2>
+  </div>
+ </section>
+                            <div class="post-asset-main">
+            <div class="article-asset-big article-asset-image js-post-images-container">
+               
+<div class="asset-content">
+ <picture>
+  <source media="(min-width: 1200px)" srcset="https://i.blogs.es/592362/captura-de-pantalla-2025-04-02-a-las-10.45.56/1200_800.png" width="1200" height="800">
+  <source media="(min-width: 501px)" srcset="https://i.blogs.es/592362/captura-de-pantalla-2025-04-02-a-las-10.45.56/840_560.png" width="840" height="560">
+  <img alt="Captura De Pantalla 2025 04 02 A Las 10 45 56" src="https://i.blogs.es/592362/captura-de-pantalla-2025-04-02-a-las-10.45.56/500_333.png" width="500" height="333" decoding="sync" loading="eager" fetchpriority="high">
+ </picture>
+</div>
+             </div>
+            </div>
+                <div class="post-comments-shortcut">
+                            <a title="1 comentario" href="#comments" class="post-comments js-smooth-scroll">1 comentario</a>
+              
+               <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.xataka.com/ecologia-y-naturaleza/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600'); return false;" class="btn-facebook js-btn-facebook" data-postname="parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones">Facebook</a>
+ <a href="https://twitter.com/intent/tweet?url=https://www.xataka.com/p/316939%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb&text=%20Parec%C3%ADa%20imposible%20que%20las%20lluvias%20de%20marzo%20fueran%20una%20mala%20noticia%20para%20alguien.%20Hasta%20que%20llegaron%20las%20sand%C3%ADas%20y%20los%20melones%20&via=xataka" class="btn-x js-btn-twitter" data-postname="parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones">Twitter</a>
+<a href="https://share.flipboard.com/bookmarklet/popout?v=2&title=%20Parec%C3%ADa%20imposible%20que%20las%20lluvias%20de%20marzo%20fueran%20una%20mala%20noticia%20para%20alguien.%20Hasta%20que%20llegaron%20las%20sand%C3%ADas%20y%20los%20melones%20&url=https%3A%2F%2Fwww.xataka.com%2Fecologia-y-naturaleza%2Fparecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones%3Futm_source%3Dflipboard%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb" class="btn-flipboard js-flipboard-share-button js-flipboard-share-event" data-postname="parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones">Flipboard</a>
+<a href="mailto:?subject=%20Parec%C3%ADa%20imposible%20que%20las%20lluvias%20de%20marzo%20fueran%20una%20mala%20noticia%20para%20alguien.%20Hasta%20que%20llegaron%20las%20sand%C3%ADas%20y%20los%20melones%20&body=https://www.xataka.com/ecologia-y-naturaleza/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones%3Futm_source%3Demailsharing%26utm_medium%3Demail%26utm_content%3DPOST%26utm_campaign%3Dbotoneraweb%26utm_term%3DCLICK%2BON%2BTITLE" class="btn-email js-btn-email" data-postname="parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones">E-mail</a>
+ <span class="js-whatsapp"></span>
+ <script>
+   document.addEventListener('DOMContentLoaded', () => {
+     const userAgent = navigator.userAgent.toLowerCase();
+     if (userAgent.indexOf('ipod') < 0) {
+       if (userAgent.indexOf('android') >= 0 || userAgent.indexOf('iphone') >= 0) {
+         const length = document.getElementsByClassName('js-whatsapp').length;
+         for (let i = 0; i < length; i++) {
+           document.getElementsByClassName('js-whatsapp')[i].innerHTML = `<a class='btn-whatsapp js-btn-whatsapp' data-postname="parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones" href="whatsapp://send?text= Parecía imposible que las lluvias de marzo fueran una mala noticia para alguien. Hasta que llegaron las sandías y los melones   https://www.xataka.com/ecologia-y-naturaleza/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneramobile">Whatsapp</a>`;
+         }
+       }
+     }
+   }, {once:true});
+ </script>
+        </div>
+       </header>
+      <div class="article-content-wrapper">
+       <div class="article-content-inner">
+                  <div class="article-metadata-container">
+ <div class="article-meta-row">
+ <div class="article-time">
+   <time
+   class="article-date"
+   datetime="2025-04-02T10:00:13Z"
+   data-format="D MMMM YYYY"
+   data-post-modified-time="2025-04-02T10:00:13Z"
+   data-post-modified-format="D MMMM YYYY, HH:mm"
+   data-post-reindexed-original-time=""
+  >
+   2025-04-02T10:00:13Z  </time>
+  <span id="is-editor"></span>
+</div>
+   </div>
+</div>
+ <div class="author-signature">
+ <img src="https://i.blogs.es/1d4bca/blob/original.jpeg" alt="javier-jimenez" class="author-avatar">
+ <div class="author-signature-wrap">
+   <p class="author-name">Javier Jiménez</p>
+      <div class="author-social-wrap" id="authorSocialWrap">
+   <div class="author-social_profiles">
+       <a href="https://www.linkedin.com/in/javier-jim%C3%A9nez-cuadros-b0557243/" class="icon-linkedin" rel="nofollow"></a> 
+          <a href="https://twitter.com/dronte" class="icon-x" rel="nofollow"></a> 
+        </div>
+  <a class="author-page_link" href="/autor/javier-jimenez">3581 publicaciones de Javier Jiménez</a>
+</div>    </div>
+ </div>
+                        <div class="article-content">
+          <div class="blob js-post-images-container">
+   <p>Las descomunales lluvias de marzo han dejado buena parte del campo fuera de juego y, durante semanas, la respuesta generalizada ha sido el pasmo. No es para menos: en el conjunto de España <a rel="noopener, noreferrer" href="https://x.com/AEMET_Esp/status/1907131952253010207">se han acumulado 149 l/m²</a>, 2,5 más de lo habitual.</p>
+<!-- BREAK 1 --> <div class="ad ad-lat">
+  <div class="ad-box" id="div-gpt-lat">
+     </div>
+   </div>
+
+<p>Los beneficios son enormes: no solo son los pantanos llenos; sino los campos de cereal, viñedo, olivar y frutos secos en su mejor momento y un momento dulce en la ganadería ovina, caprina y bovina de leche.</p>
+<!-- BREAK 2 -->
+<p>Pero también hay grandes perjudicados.</p>
+
+<p><strong>¿A quién le puede ir mal el agua?</strong> Paradójicamente, a muchos cultivos: algunas hortalizas (desde el brócoli a las lechugas), las fresas de Huelva, la cosecha de patatas, las leguminosas y, sobre todo, al melón y la sandía.</p>
+<!-- BREAK 3 -->  <div class="ad ad-out">
+  <div class="ad-box" id="div-gpt-out">
+     </div>
+   </div>
+<div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.xataka.com/ecologia-y-naturaleza/lluvias-marzo-embalses-media-espana-a-rebosar-comienza-otra-batalla-quien-se-queda-esa-agua" class="pivot-outboundlink" data-vars-post-title="Tras las lluvias de marzo y con los embalses de media España a rebosar, comienza otra batalla: quién se queda esa agua">
+     <img alt="Tras&#x20;las&#x20;lluvias&#x20;de&#x20;marzo&#x20;y&#x20;con&#x20;los&#x20;embalses&#x20;de&#x20;media&#x20;Espa&#x00F1;a&#x20;a&#x20;rebosar,&#x20;comienza&#x20;otra&#x20;batalla&#x3A;&#x20;qui&#x00E9;n&#x20;se&#x20;queda&#x20;esa&#x20;agua" width="375" height="142" src="https://i.blogs.es/bf0db9/plantilla-xtk/375_142.png">
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.xataka.com/ecologia-y-naturaleza/lluvias-marzo-embalses-media-espana-a-rebosar-comienza-otra-batalla-quien-se-queda-esa-agua" class="desvio-taxonomy-anchor pivot-outboundlink" data-vars-post-title="Tras las lluvias de marzo y con los embalses de media España a rebosar, comienza otra batalla: quién se queda esa agua">En Xataka</a>
+    </div>
+    <a href="https://www.xataka.com/ecologia-y-naturaleza/lluvias-marzo-embalses-media-espana-a-rebosar-comienza-otra-batalla-quien-se-queda-esa-agua" class="desvio-title js-desvio-title pivot-outboundlink" data-vars-post-title="Tras las lluvias de marzo y con los embalses de media España a rebosar, comienza otra batalla: quién se queda esa agua">Tras las lluvias de marzo y con los embalses de media España a rebosar, comienza otra batalla: quién se queda esa agua</a>
+   </div>
+  </div>
+ </div>
+</div>
+<p><strong>¿Es por las inundaciones?</strong> En buena parte sí. En <a rel="noopener, noreferrer" href="https://cadenaser.com/murcia/2025/03/24/en-la-region-de-murcia-las-lluvias-han-afectado-a-mas-de-5000-hectareas-de-lechuga-brocoli-y-coliflor-con-perdidas-estimadas-en-10-millones-de-euros-segun-coag-radio-murcia/">Murcia, se han inundado más de 5.000 hectáreas de hortaliza</a> y en <a rel="noopener, noreferrer" href="https://www.ideal.es/almeria/almeria/organizaciones-agrarias-advierten-danos-cultivos-lluvias-provincia-20250319235124-nt.html">Almería se han visto afectados cultivos</a> (tanto al aire libre como bajo invernadero). Se entiende así que, durante todo este tiempo, la asfixia radicular ha sido uno de los grandes temores de los agricultores.</p>
+<!-- BREAK 4 -->
+<p>En esencia, hablamos de <a rel="noopener, noreferrer" href="https://www.agromatica.es/asfixia-radicular/">un fenómeno</a> que se produce cuando las raíces de las plantas no reciben suficiente oxígeno. Esto suele ocurrir cuando hay un exceso de agua en el suelo; y, de hecho, puede ocurrir aunque la 'inundación' dure poco tiempo.</p>
+<!-- BREAK 5 -->
+<p><strong>No obstante, hay problemas más allá de la asfixia. </strong>Un buen ejemplo es el garbanzo. &nbsp;En su caso no se ha asfixiado porque, en fin, ni siquiera ha llegado a plantarse en provincias como Sevilla (que concentra un tercio de la producción nacional). Como dice el secretario general de COAG Sevilla en <a rel="noopener, noreferrer" href="https://www.eldebate.com/campo-y-caza/20250329/escasez-acecha-cuna-garbanzo-planta-tendria-medir-palmo-sigue-sembrar_282602.html"  data-id="noopener, noreferrer">El Debate</a>, el garbanzo tiene que estar más de 100 días en el campo y "este año, con suerte, pasará 60".</p>
+<!-- BREAK 6 --> <div class="ad ad-lat2">
+  <div class="ad-box" id="div-gpt-lat2">
+     </div>
+   </div>
+
+<p>Incluso en el supuesto de que la meteorología acompañe, la campaña del garbanzo <a class="text-outboundlink" href="https://www.xataka.com/ecologia-y-naturaleza/lluvias-empiezan-a-volver-a-espana-campo-mira-al-cielo-preocupacion-hay-decenas-cultivos-que-llevan-semanas-retraso" data-vars-post-title="Ante el regreso de las lluvias a España, el campo mira al cielo preocupado: hay decenas de cultivos con semanas de retraso" data-vars-post-url="https://www.xataka.com/ecologia-y-naturaleza/lluvias-empiezan-a-volver-a-espana-campo-mira-al-cielo-preocupacion-hay-decenas-cultivos-que-llevan-semanas-retraso">va a ser muy mala</a>. Y, además, es algo inevitable porque los agricultores no pueden plantar otra cosa: las normas de la política agraria común <a class="text-outboundlink" href="https://www.xataka.com/ecologia-y-naturaleza/lluvias-empiezan-a-volver-a-espana-campo-mira-al-cielo-preocupacion-hay-decenas-cultivos-que-llevan-semanas-retraso" data-vars-post-title="Ante el regreso de las lluvias a España, el campo mira al cielo preocupado: hay decenas de cultivos con semanas de retraso" data-vars-post-url="https://www.xataka.com/ecologia-y-naturaleza/lluvias-empiezan-a-volver-a-espana-campo-mira-al-cielo-preocupacion-hay-decenas-cultivos-que-llevan-semanas-retraso">les obligan</a> a plantar un determinado tanto por ciento de su tierra con leguminosas.</p>
+<!-- BREAK 7 -->
+<p><strong>Y luego tenemos la humedad.</strong> La lluvia ha provocado que los niveles de humedad se disparen y, <a rel="noopener, noreferrer" href="https://www.20minutos.es/lainformacion/economia-y-finanzas/impacto-temporal-llluvia-campo-amenaza-precio-sandia-melon-5695623/">con ellos</a>, la "proliferación de plagas y enfermedades como el botrytis (provocado por un hongo) o el mildiu" (agrupa a varias enfermedades que dañan tallos y hojas)" que están pudriendo las matas.</p>
+<!-- BREAK 8 --><div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+                          {"videoId":"x89b35l","autoplay":false,"title":"CAZATORMENTAS PROFESIONALES_ así es su día a día", "tag":"", "duration":"400"}
+                  </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p><strong>¿Y qué le pasa a los melones y las sandías?</strong> Otra cosa distinta. En el caso de estos cultivos, la situación es "preocupante" porque las lluvias llegaron en "<a rel="noopener, noreferrer" href="https://www.20minutos.es/lainformacion/economia-y-finanzas/impacto-temporal-llluvia-campo-amenaza-precio-sandia-melon-5695623/">el momento más delicado, la polinización</a>". Esto ha retrasado significativamente la producción hasta el punto que parece inviable que las sandías tempranas puedan llegar al mercado en sus fechas habituales.</p>
+<!-- BREAK 9 -->
+<p>La esperanza del sector, <a rel="noopener, noreferrer" href="https://www.20minutos.es/lainformacion/economia-y-finanzas/impacto-temporal-llluvia-campo-amenaza-precio-sandia-melon-5695623/">según explican desde COAG</a>, es que se replante gran aprte de la producción. Si no ocurre ningún imprevisto, eso permitiría llegar al mercado de sandías y melones tardíos con fuerza. Pero, claro, todo depende de lo que pase en los próximos días.</p>
+<!-- BREAK 10 --> <div class="ad ad-lat">
+  <div class="ad-box" id="div-gpt-lat3">
+     </div>
+   </div>
+
+<p>No está de más recordar que en los últimos años, estas dos frutas de verano <a class="text-outboundlink" href="https://www.xataka.com/ecologia-y-naturaleza/sequia-tiene-proxima-victima-20-melones-sandias-espana-se-dan-perdidos-campana-no-ha-empezado" data-vars-post-title="En 2022, el melón y la sandía llegaron a estar tres veces más caros de lo normal. 2023 va camino de ser peor" data-vars-post-url="https://www.xataka.com/ecologia-y-naturaleza/sequia-tiene-proxima-victima-20-melones-sandias-espana-se-dan-perdidos-campana-no-ha-empezado">han protagonizado constantes polémicas</a> por sus altos precios y sus problemas de distribución.</p>
+<!-- BREAK 11 -->
+<p><strong>Todo por hacer.</strong> Las grandes incógnitas ahora son dos: <a class="text-outboundlink" href="https://www.xataka.com/ecologia-y-naturaleza/lluvias-marzo-embalses-media-espana-a-rebosar-comienza-otra-batalla-quien-se-queda-esa-agua" data-vars-post-title="Tras las lluvias de marzo y con los embalses de media España a rebosar, comienza otra batalla: quién se queda esa agua" data-vars-post-url="https://www.xataka.com/ecologia-y-naturaleza/lluvias-marzo-embalses-media-espana-a-rebosar-comienza-otra-batalla-quien-se-queda-esa-agua">qué gestión hídrica permitirán las Confederaciones Hidrográficas</a> y el resto de administraciones, por un lado. Y cómo de flexible será la Unión Europea <a class="text-outboundlink" href="https://www.xataka.com/ecologia-y-naturaleza/arroz-bomba-esta-al-borde-desaparicion-asi-se-esta-destruyendo-joyas-corona-gastronomia-espanola" data-vars-post-title="Tenemos un problema con el arroz bomba: cómo una plaga está poniendo está amenazando a la paella tal y como la conocemos" data-vars-post-url="https://www.xataka.com/ecologia-y-naturaleza/arroz-bomba-esta-al-borde-desaparicion-asi-se-esta-destruyendo-joyas-corona-gastronomia-espanola">con las restricciones de productos fitosanitarios</a> en un contexto climáticamente extremo.</p>
+<!-- BREAK 12 -->
+<p>No obstante, hay muchas más cosas encima de la mesa. Muchos más problemas, muchas más oportunidades. Sobre todo, ante <a rel="noopener, noreferrer" href="https://www.eltiempo.es/noticias/marzo-cada-vez-mas-lluvioso-en-espana">la perspectiva de que esta sea la nueva normalidad</a>.&nbsp;</p>
+<!-- BREAK 13 -->
+<p>Imagen | <a rel="noopener, noreferrer" href="https://unsplash.com/es/@twaltonhttps://unsplash.com/es/fotos/un-grupo-de-sandias-en-una-vitrina-KtIeXdgnH34">Townsend Walton</a></p>
+
+<p>En Xataka | <a class="text-outboundlink" href="https://www.xataka.com/ecologia-y-naturaleza/lluvias-empiezan-a-volver-a-espana-campo-mira-al-cielo-preocupacion-hay-decenas-cultivos-que-llevan-semanas-retraso" data-vars-post-title="Ante el regreso de las lluvias a España, el campo mira al cielo preocupado: hay decenas de cultivos con semanas de retraso" data-vars-post-url="https://www.xataka.com/ecologia-y-naturaleza/lluvias-empiezan-a-volver-a-espana-campo-mira-al-cielo-preocupacion-hay-decenas-cultivos-que-llevan-semanas-retraso">Ante el regreso de las lluvias a España, el campo mira al cielo preocupado: hay decenas de cultivos con semanas de retraso</a></p>
+
+<p><br></p>
+<script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+ 
+  </div>
+        </div>
+       </div>
+      </div>
+     </article>
+     <div class="section-post-closure">
+ <div class="section-content">
+  <div class="social-share-group">
+      <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.xataka.com/ecologia-y-naturaleza/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600'); return false;" class="btn-facebook js-btn-facebook" data-postname="parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones">Facebook</a>
+ <a href="https://twitter.com/intent/tweet?url=https://www.xataka.com/p/316939%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb&text=%20Parec%C3%ADa%20imposible%20que%20las%20lluvias%20de%20marzo%20fueran%20una%20mala%20noticia%20para%20alguien.%20Hasta%20que%20llegaron%20las%20sand%C3%ADas%20y%20los%20melones%20&via=xataka" class="btn-x js-btn-twitter" data-postname="parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones">Twitter</a>
+<a href="https://share.flipboard.com/bookmarklet/popout?v=2&title=%20Parec%C3%ADa%20imposible%20que%20las%20lluvias%20de%20marzo%20fueran%20una%20mala%20noticia%20para%20alguien.%20Hasta%20que%20llegaron%20las%20sand%C3%ADas%20y%20los%20melones%20&url=https%3A%2F%2Fwww.xataka.com%2Fecologia-y-naturaleza%2Fparecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones%3Futm_source%3Dflipboard%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb" class="btn-flipboard js-flipboard-share-button js-flipboard-share-event" data-postname="parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones">Flipboard</a>
+<a href="mailto:?subject=%20Parec%C3%ADa%20imposible%20que%20las%20lluvias%20de%20marzo%20fueran%20una%20mala%20noticia%20para%20alguien.%20Hasta%20que%20llegaron%20las%20sand%C3%ADas%20y%20los%20melones%20&body=https://www.xataka.com/ecologia-y-naturaleza/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones%3Futm_source%3Demailsharing%26utm_medium%3Demail%26utm_content%3DPOST%26utm_campaign%3Dbotoneraweb%26utm_term%3DCLICK%2BON%2BTITLE" class="btn-email js-btn-email" data-postname="parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones">E-mail</a>
+ <span class="js-whatsapp"></span>
+ <script>
+   document.addEventListener('DOMContentLoaded', () => {
+     const userAgent = navigator.userAgent.toLowerCase();
+     if (userAgent.indexOf('ipod') < 0) {
+       if (userAgent.indexOf('android') >= 0 || userAgent.indexOf('iphone') >= 0) {
+         const length = document.getElementsByClassName('js-whatsapp').length;
+         for (let i = 0; i < length; i++) {
+           document.getElementsByClassName('js-whatsapp')[i].innerHTML = `<a class='btn-whatsapp js-btn-whatsapp' data-postname="parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones" href="whatsapp://send?text= Parecía imposible que las lluvias de marzo fueran una mala noticia para alguien. Hasta que llegaron las sandías y los melones   https://www.xataka.com/ecologia-y-naturaleza/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneramobile">Whatsapp</a>`;
+         }
+       }
+     }
+   }, {once:true});
+ </script>
+  </div>
+     <div class="post-tags-container">
+ <span class="post-link-title">Temas</span>
+   <ul class="post-link-list" id="js-post-link-list-container">
+       <li class="post-category-name">
+           <a href="/categoria/ecologia-y-naturaleza">Ecología y naturaleza</a>
+         </li>
+          <li class="post-link-item"><a href="/tag/alimentacion">Alimentación</a></li>
+       <li class="post-link-item"><a href="/tag/meteorologia">meteorología</a></li>
+       <li class="post-link-item"><a href="/tag/agricultura">Agricultura</a></li>
+       <li class="post-link-item"><a href="/tag/sequia">sequía</a></li>
+     </ul>
+  <span class="btn-expand" id="js-btn-post-tags"></span>
+</div>
+   </div>
+</div>
+  <div class ="limit-container">
+  <div class="OUTBRAIN" data-src="https://www.xataka.com/ecologia-y-naturaleza/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones" data-widget-id="AR_1"></div> 
+ </div>
+ <script type="didomi/javascript" async="async" src="//widgets.outbrain.com/outbrain.js" data-vendor="iab:164"></script>
+                      <div class="ad ad-cen">
+  <div class="ad-box" id="div-gpt-cen">
+     </div>
+   </div>
+                <script>
+ window.WSLModules || (window.WSLModules = {});
+ WSLModules.Comments || (WSLModules.Comments = {
+  'moduleConf' : "c1"
+ });
+</script>
+<a id="to-comments"></a>
+<div id="comments">
+ <div class="comment-section">
+     <div id="main-container" class="comment-section">
+  <div id="common-container">
+   <div class="comment-wrapper initial-comments" style="display:none">
+    <div class="comments-list">
+     <p>Los mejores comentarios:</p>
+     <ul id="initial-comments"></ul>
+    </div>
+   </div>
+       <div class="view-more">
+      <p><a class="btn-primary btn-comment js-toggle-comments-list is-closed" href="#" id="toggle-comments">Ver <span id="comment-count">1 comentarios</span></a></p>
+    </div>
+      <div id="comment-wrapper" class="comment-wrapper comment-wrapper-aside">
+         <div id="comments-area" class="comments-list" style="display: none;">
+      <div id="comment-header"></div>
+             <div id="comments-write-form" class="comment-write-form" style="display: block;"></div>
+            <!-- .comment-write-form -->
+      <ul id="comments-before-ad"></ul>
+      <ul id="comments-list"></ul>
+      <div class="view-even-more"></div>
+      <div id="bottom-create-comment-widget" class="article-comments-write article-comments-write-again"></div>
+             <div id="bottom-comments-write-form" class="comment-write-form" style="display: none;"></div>
+           </div>
+       </div>
+  </div>
+ </div>
+<script>
+  window.AML || (window.AML = {});
+  AML.Comments || (AML.Comments = {});
+  AML.Comments.config || (AML.Comments.config = {});
+  AML.Comments.config.data = {"comments":[{"id":2276768,"post_id":316939,"date":1743589478,"content_filtered":"<p>ya estan buscando escusas para subir los precios...<\/p>","content":"ya estan buscando escusas para subir los precios...","karma":10,"parent":null,"comment_edited_date":"","vote_count":0,"comment_level":3,"comment_deleted_date":"","tree_level":0,"comment_approved":"1","comment_author":"","user_id":222944,"author":"","webpage":"","user_name":"valadre","karma_level":46,"iseditor":0,"global_id":1234468,"facebook_uid":null,"user_status":"active","index":1,"avatar_type":"gravatar","avatar_link":"\/\/www.gravatar.com\/avatar\/fc14df71274c70892bd026774b1bbb16"}],"meta":{"more_records":"false","start":0,"total":1,"order":"valued","totalCount":1,"commentStatus":"open"}};
+  AML.Comments.config.postId = 316939;
+  AML.Comments.config.enableSocialShare = "0";
+  AML.Comments.config.status = "open";
+  AML.Comments.config.campaignDate = "02_Apr_2025";
+</script>
+
+ </div>
+</div>
+           <div class="ad ad-cen2">
+  <div class="ad-box" id="div-gpt-cen2">
+     </div>
+   </div>
+      <div class="ad ad-bot">
+  <div class="ad-box" id="div-gpt-bot2">
+     </div>
+   </div>
+                 <div class="section-deeplinking-container m-evergreen-links">
+  <div class="section-deeplinking">
+       <div class="section-deeplinking-wrap">
+     <span class="section-deeplinking-header">Temas de interés</span>
+     <ul class="section-deeplinking-list" id="js-evergreen-nav-links">
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/analisis/mejores-moviles-2022-analisis-videos" class="section-deeplinking-anchor">
+         Mejores moviles 2025
+        </a>
+       </li>
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/analisis/mejores-moviles-calidad-precio-2022-analisis-videos" class="section-deeplinking-anchor">
+         Mejores móviles calidad precio 2025
+        </a>
+       </li>
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/basics/chatgpt-que-como-usarlo-que-puedes-hacer-este-chat-inteligencia-artificial" class="section-deeplinking-anchor">
+         ChatGPT
+        </a>
+       </li>
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/moviles/samsung-galaxy-s24-s24-caracteristicas-precio-ficha-tecnica" class="section-deeplinking-anchor">
+         Samsung Galaxy S24
+        </a>
+       </li>
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/moviles/iphone-16-pro-iphone-16-pro-max-caracteristicas-precio-ficha-tecnica" class="section-deeplinking-anchor">
+         iPhone 16 Pro
+        </a>
+       </li>
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/analisis/poco-x6-pro-opiniones-toma-contacto-video-fotos" class="section-deeplinking-anchor">
+         POCO X6 Pro
+        </a>
+       </li>
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/analisis/xiaomi-redmi-note-13-pro-5g-analisis-caracteristicas-precio-especificaciones" class="section-deeplinking-anchor">
+         Redmi Note 13 Pro
+        </a>
+       </li>
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/analisis/iphone-15-iphone-15-plus-analisis-caracteristicas-precio" class="section-deeplinking-anchor">
+         Iphone 15
+        </a>
+       </li>
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/analisis/xiaomi-13-analisis-caracteristicas-precio-especificaciones" class="section-deeplinking-anchor">
+         Xiaomi 13
+        </a>
+       </li>
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/moviles/oneplus-12-opiniones-toma-contacto-fotos" class="section-deeplinking-anchor">
+         One Plus 12
+        </a>
+       </li>
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/nuevo/nuevo-android-15-informacion" class="section-deeplinking-anchor">
+         Android 14
+        </a>
+       </li>
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/seleccion/buscando-mejor-portatil-relacion-calidad-precio-recomendaciones-compra-funcion-uso-nueve-modelos-destacados" class="section-deeplinking-anchor">
+         Mejores ordenadores portátiles
+        </a>
+       </li>
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/analisis/mejores-smartwatch-2022-analisis-videos" class="section-deeplinking-anchor">
+         Mejores smartwatch
+        </a>
+       </li>
+             <li class="section-deeplinking-item">
+        <a href="https://www.xataka.com/seleccion/guia-compras-auriculares-inalambricos-para-todos-bolsillos-36-modelos-15-euros-350-euros" class="section-deeplinking-anchor">
+         Auriculares inalámbricos
+        </a>
+       </li>
+           </ul>
+     <div class="section-deeplinking-btn" id="js-evergreen-nav-btn"></div>
+    </div>
+     </div>
+ </div>
+
+    </main>
+    <script>
+  window.WSLModules = window.WSLModules || {};
+  WSLModules.Footer = {'moduleConf' : 'c1'};
+</script>
+  <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    runDailyMotion()
+  });
+
+  function runDailyMotion () {
+    const AUTOPLAY_LIMIT = WSL2.config.dailymotionAutoplayLimit;
+    let isPostsubtypeUseLimit = true;
+    let autoplayLimit = Infinity;
+    if (AUTOPLAY_LIMIT) {
+      isPostsubtypeUseLimit = 0 > ['landing'].indexOf(WSL2.config.postSubType);
+      autoplayLimit = isPostsubtypeUseLimit ? AUTOPLAY_LIMIT : autoplayLimit;
+    }
+
+    const isPostPage = Boolean(WSL2.config.postId);
+    const isDesktop = document.body.classList.contains('js-desktop');
+
+    const getTargetingKeyValues = (videoContainer) => {
+      let scriptTagInVideo = '';
+      Array.from(videoContainer.children).forEach((child) => {
+        if ('SCRIPT' === child.tagName) {
+          scriptTagInVideo = child;
+        }
+      });
+
+      const autoplayVideos = [];
+      const data = JSON.parse(scriptTagInVideo.text);
+      let inhouse = 'webedia-prod' === data.tag;
+      const videoData = data;
+      const isAutoplayable = isPostPage && autoplayVideos.length <= autoplayLimit ? Boolean(data.autoplay) : false;
+      let autoplayValue = isAutoplayable ? 'on' : 'off';
+      let isAutoplayTargetingTrue = data.autoplay;
+      let videoFooter = false;
+      if ('videoFooter' === data.type) {
+        autoplayValue = 'on';
+        isAutoplayTargetingTrue = true;
+        videoFooter = true;
+      }
+      
+      if (autoplayValue) {
+        autoplayVideos.push(videoContainer);
+      }
+      videoData.autoplayValue = autoplayValue;
+
+      let positionName = '';
+      if (isAutoplayTargetingTrue) {
+        positionName = isDesktop ? 'preroll_sticky_autoplay' : 'preroll_notsticky_autoplay';
+      } else {
+        positionName = isDesktop ? 'preroll_sticky_starttoplay' : 'preroll_notsticky_starttoplay';
+      }
+
+      return { positionName, videoData, inhouse, videoFooter };
+    };
+
+    const initDailymotionV3 = () => {
+      document.querySelectorAll('div.js-dailymotion').forEach((videoContainer, index) => {
+        const { positionName, videoData, inhouse, videoFooter } = getTargetingKeyValues(videoContainer); 
+        let updatedPlayerId = playerId;
+        if ('off' === videoData.autoplayValue) {
+          updatedPlayerId = WSL2.config.dailymotionPlayerIdAutoplayOff;
+        }
+        const divId = `${updatedPlayerId}-${index}`;
+        const element = document.createElement('div');
+        element.setAttribute('id', divId);
+        videoContainer.appendChild(element);
+
+        dailymotion.createPlayer(divId, {
+          referrerPolicy: 'no-referrer-when-downgrade',
+          player: updatedPlayerId,
+          params: {
+            mute: true,
+          },
+        }).then((player) => window.WSL2.handlePlayer(player, videoData, updatedPlayerId));
+        if (window.hasAdblocker) {
+          dailymotion
+            .getPlayer(divId)
+            .then((player) => {
+              player.loadContent({
+                video: videoData.videoId,
+              });
+            });
+        } else {
+          jad.cmd.push(() => {
+            jad.public.setTargetingOnPosition(
+              `${positionName}/${divId}`,
+              { related: ['yes'] }
+            );
+
+            jad.public.getDailymotionAdsParamsForScript(
+              [`${positionName}/${divId}`],
+              (res) => {
+                dailymotion
+                  .getPlayer(divId)
+                  .then((player) => {
+                    let customParameters = res[`${positionName}/${divId}`].split("/")[1];
+                    if (typeof customParameters === 'string') {
+                        customParameters = customParameters.split('&vpos');
+                    } else {
+                        customParameters = [];
+                    }
+                    let updatedCustomParameters = '%26videofooter%3D' + videoFooter + '%26inhouse%3D' + inhouse + '&vpos' ;
+                    updatedCustomParameters = customParameters.join(updatedCustomParameters);
+                    updatedCustomParameters = decodeURIComponent(updatedCustomParameters);
+                    if ('1' === WSL2.config.enableDynamicIU) {
+                      player.setCustomConfig({ dynamiciu: WSL2.config.dynamicIU, keyvalues: updatedCustomParameters, plcmt: "2" });
+                    }
+                    else {
+                      player.setCustomConfig({ customParams: updatedCustomParameters, plcmt: "2" });
+                    }
+                    player.loadContent({
+                      video: videoData.videoId,
+                    });
+                  })
+                  .then(() => {
+                    const videoElement = document.getElementById(divId);
+                    const videoParent = videoElement.parentElement.parentElement;
+                    videoParent.classList.remove('base-asset-video');
+                  });
+              }
+            );
+          });
+        }
+      });
+    };
+
+    const playerId =  WSL2.config[`${WSL2.config.device}DailymotionPlayerId`];
+    const newScript = document.createElement('script');
+
+    newScript.src = `https://geo.dailymotion.com/libs/player/${playerId}.js`;
+    newScript.onload = initDailymotionV3;
+    document.body.appendChild(newScript);
+  }
+</script> <footer class="foot js-foot">
+ <div class="wrapper foot-wrapper foot-wrapper-show">
+  <div id="newsletter" class="newsletter-box">
+     </div>
+     <div class="menu-follow foot-menu-follow">
+    <span class="item-meta foot-item-meta">Síguenos</span>
+    <ul>
+ <li>
+  <a class="icon-whatsapp link-whatsapp" href="https://whatsapp.com/channel/0029VaAOhno4tRrjQkLKjI2u" rel="nofollow">WhatsApp</a>
+ </li>
+ <li>
+  <a href="https://twitter.com/xataka" class="icon-x link-x" rel="nofollow">Twitter</a>
+ </li>
+ <li>
+  <a href="https://www.facebook.com/Xataka" class="icon-facebook link-facebook" rel="nofollow">Facebook</a>
+ </li>
+   <li>
+   <a href="https://www.youtube.com/user/xatakatv?sub_confirmation=1" class="icon-youtube link-youtube" rel="nofollow">Youtube</a>
+  </li>
+     <li>
+   <a class="icon-instagram link-instagram" href="https://instagram.com/xataka" rel="nofollow">Instagram</a>
+  </li>
+    <li>
+   <a href="https://telegram.me/xataka" class="icon-telegram link-telegram" rel="nofollow">Telegram</a>
+  </li>
+  <li>
+  <a class="icon-rss link-rss" href="/index.xml" rel="nofollow">RSS</a>
+ </li>
+     <li>
+   <a href="https://flipboard.com/@xataka" class="icon-flipboard link-flipboard" rel="nofollow">Flipboard</a>
+  </li>
+     <li>
+   <a href="https://www.linkedin.com/company/11275845/" class="icon-linkedin link-linkedin" rel="nofollow">LinkedIn</a>
+  </li>
+    <li>
+   <a class="icon-tiktok link-tiktok" href="https://www.tiktok.com/@xataka" rel="nofollow">Tiktok</a>
+  </li>
+ </ul>
+   </div>
+    <nav class="menu-categories foot-menu-categories">
+   <p class="nav-heading">En Xataka hablamos de...</p>
+   <ul>
+   <li><a class="list-item foot-list-item" href="/categoria/streaming">Streaming</a></li>   <li><a class="list-item foot-list-item" href="/categoria/analisis">Análisis</a></li>   <li><a class="list-item foot-list-item" href="/categoria/espacio">Espacio</a></li>   <li><a class="list-item foot-list-item" href="/categoria/moviles">Móviles</a></li>   <li><a class="list-item foot-list-item" href="/categoria/energia">Energía</a></li>   <li><a class="list-item foot-list-item" href="/categoria/movilidad">Xataka Movilidad</a></li>    <li><a class="list-item foot-list-item" href="/tag/apple">Apple</a></li>   <li><a class="list-item foot-list-item" href="/tag/samsung">Samsung</a></li>   <li><a class="list-item foot-list-item" href="/tag/inteligencia-artificial">Inteligencia artificial</a></li>   <li><a class="list-item foot-list-item" href="/tag/china">China</a></li>   <li><a class="list-item foot-list-item" href="/tag/empleo">Empleo</a></li>   <li><a class="list-item foot-list-item" href="/tag/windows-11">Windows 11</a></li> </ul>     </nav>
+  <p class="view-even-more"><a href="/archivos" class="btn">Ver más temas</a></p>      <div class="search-box foot-search">
+  <div class="search-form js-search-form">
+   <input id="search-field-3" type="text" 
+    placeholder="Buscar en Xataka" 
+    class="search-container-3" 
+    data-container="#search-container-3">
+   <button class="search-button js-search-button" data-field="#search-field-3">
+     Buscar
+   </button>
+  </div>
+ </div>
+   <div id="search-container-3" class="js-search-results foot-search-results"></div>
+   </div>
+</footer>
+ <script>
+  (function() {
+   var form = document.createElement('form');
+   form.method = 'POST';
+   form.classList.add('js-subscription', 'newsletter-form', 'foot-newsletter-form');
+   form.setAttribute('data-url', "https://www.xataka.com/modules/subscription/form");
+   form.innerHTML = '<p class="nav-heading">Recibe &quot;Xatakaletter&quot;, nuestra newsletter semanal </p>\
+    <p><input class="js-email newsletter-input" type="email" placeholder="Tu correo electrónico" required>\
+    <button class="btn-primary newsletter-button js-subscribe-btn" type="submit">Suscribir</button></p>\
+    <small class="newsletter-legal-disclaimer js-disclaimer">Suscribiéndote aceptas nuestra <a href="https://weblogs.webedia.es/aviso-legal.html">política de privacidad</a></small>\
+    <div class="alert-success js-subscribe-success" style="display: none;"></div>\
+    <div class="alert-error js-subscribe-error" style="display: none;">Error: el correo electrónico no tiene el formato correcto</div>';
+   var newsletterContainer = document.getElementById('newsletter');
+   newsletterContainer.insertBefore(form, newsletterContainer.firstChild);
+  })();
+ </script>
+<div class="foot-external js-foot-external ">
+ <div class="wrapper foot-wrapper">
+  <header class="foot-head">
+   <a class="backlink foot-backlink" href="#">Subir</a>
+   <p class="webedia-brand foot-webedia-brand">
+ <a href="https://www.webedia.es/" class="webedia-logo foot-webedia-logo"><span>Webedia</span></a>
+</p>
+  </header>
+    <div class="menu-external foot-menu-external">
+   <div class="spain-blogs">
+          <div class="links-category">
+    <p class="channel-title"> Tecnología </p><ul><li><a class="list-item foot-list-item"  rel="nofollow"  href="//www.xataka.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Xataka
+         </a></li><li><a class="list-item foot-list-item"  href="//www.xatakamovil.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Xataka Móvil
+         </a></li><li><a class="list-item foot-list-item"  href="//www.xatakandroid.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Xataka Android
+         </a></li><li><a class="list-item foot-list-item"  href="//www.xatakahome.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Xataka Smart Home
+         </a></li><li><a class="list-item foot-list-item"  href="//www.applesfera.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Applesfera
+         </a></li><li><a class="list-item foot-list-item"  href="//www.genbeta.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Genbeta
+         </a></li><li><a class="list-item foot-list-item"  href="//www.mundoxiaomi.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Mundo Xiaomi
+         </a></li><li><a class="list-item foot-list-item"  href="//www.territorioese.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Territorio S
+         </a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Videojuegos </p><ul><li><a class="list-item foot-list-item"  href="//www.3djuegos.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           3DJuegos
+         </a></li><li><a class="list-item foot-list-item"  href="//www.vidaextra.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Vida Extra
+         </a></li><li><a class="list-item foot-list-item"  href="//www.millenium.gg?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           MGG
+         </a></li><li><a class="list-item foot-list-item"  href="//www.3djuegospc.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           3DJuegos PC
+         </a></li><li><a class="list-item foot-list-item"  href="//www.3djuegosguias.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           3DJuegos Guías
+         </a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Entretenimiento </p><ul><li><a class="list-item foot-list-item"  href="https://www.sensacine.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Sensacine
+         </a></li><li><a class="list-item foot-list-item"  href="//www.espinof.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Espinof
+         </a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Gastronomía </p><ul><li><a class="list-item foot-list-item"  href="//www.directoalpaladar.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Directo al Paladar
+         </a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Estilo de vida </p><ul><li><a class="list-item foot-list-item"  rel="nofollow"  href="//www.vitonica.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Vitónica
+         </a></li><li><a class="list-item foot-list-item"  href="//www.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Trendencias
+         </a></li><li><a class="list-item foot-list-item"  rel="nofollow"  href="//decoracion.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Decoesfera
+         </a></li><li><a class="list-item foot-list-item"  href="//www.compradiccion.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Compradiccion
+         </a></li><li><a class="list-item foot-list-item"  href="//www.poprosa.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Poprosa
+         </a></li></ul>
+  </div>
+ 
+   </div>
+       <div class="latam-blogs">
+     <p class="channel-title">
+      Ediciones Internacionales
+     </p>
+           <div class="links-category">
+    <ul><li><a class="list-item foot-list-item"  href="//www.xataka.com.mx?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Xataka México
+         </a></li><li><a class="list-item foot-list-item"  href="https://www.xatakaon.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Xataka On
+         </a></li><li><a class="list-item foot-list-item"  href="//www.xataka.com.co?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Xataka Colombia
+         </a></li><li><a class="list-item foot-list-item"  href="//www.xataka.com.ar?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Xataka Argentina
+         </a></li><li><a class="list-item foot-list-item"  href="//www.xataka.com.br?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Xataka Brasil
+         </a></li></ul>
+  </div>
+   <div class="links-category">
+    <ul><li><a class="list-item foot-list-item"  href="//www.3djuegos.lat#utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           3DJuegos LATAM
+         </a></li></ul>
+  </div>
+   <div class="links-category">
+    <ul><li><a class="list-item foot-list-item"  href="https://www.sensacine.com.mx#utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Sensacine México
+         </a></li><li><a class="list-item foot-list-item"  href="https://www.sensacine.com.co#utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Sensacine Colombia
+         </a></li></ul>
+  </div>
+   <div class="links-category">
+    <ul><li><a class="list-item foot-list-item"  href="//www.directoalpaladar.com.mx?utm_source=xataka&utm_medium=network&utm_campaign=footer">
+           Directo al Paladar México
+         </a></li></ul>
+  </div>
+ 
+    </div>
+             <div class="foot-cookie-link">
+     <a href="javascript:Didomi.preferences.show()" class="list-item">Preferencias de Privacidad</a>
+           <a href="https://weblogs.webedia.es/aviso-legal.html" class="list-item">Política de privacidad</a>
+         </div>
+     </div>
+ </div>
+</div>
+ <aside id="head-favicons" class="head-favicons-container m-is-later js-head-favicons m-favicons-compact">
+ <div class="head-favicons">
+  <div class="head-favicons-index head-webedia-logo">
+   <a class="js-group-toggle" href="#" data-target="#head-network"><abbr title="Webedia">Webedia</abbr></a>
+  </div>
+  <ul class="head-favicons-list">
+                                 <li>
+      <a class="favicon tec-xataka
+              favicon-current
+       " rel="nofollow" href="//www.xataka.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-vidaextra
+       "  href="//www.vidaextra.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Vida Extra</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon oci-espinof
+       "  href="//www.espinof.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Espinof</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-genbeta
+       "  href="//www.genbeta.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Genbeta</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon est-directoalpaladar
+       "  href="//www.directoalpaladar.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Directo al Paladar</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon est-trendencias
+       "  href="//www.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Trendencias</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-applesfera
+       "  href="//www.applesfera.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Applesfera</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakamovil
+       "  href="//www.xatakamovil.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Móvil</span>
+      </a>
+     </li>
+                                     <li>
+      <a class="favicon est-decoesfera
+       " rel="nofollow" href="//decoracion.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Decoesfera</span>
+      </a>
+     </li>
+                                     <li>
+      <a class="favicon est-vitonica
+       " rel="nofollow" href="//www.vitonica.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Vitónica</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakandroid
+       "  href="//www.xatakandroid.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Android</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakahome
+       "  href="//www.xatakahome.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Xataka Smart Home</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-compradiccion
+       "  href="//www.compradiccion.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Compradiccion</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tech-3djuegos
+       "  href="//www.3djuegos.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>3DJuegos</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon oci-sensacine
+       "  href="https://www.sensacine.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Sensacine</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tech-millenium
+       "  href="//www.millenium.gg?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>MGG</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon est-poprosa
+       "  href="//www.poprosa.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Poprosa</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-mundoxiaomi
+       "  href="//www.mundoxiaomi.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Mundo Xiaomi</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-3djuegospc
+       "  href="//www.3djuegospc.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>3DJuegos PC</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-3djuegosguias
+       "  href="//www.3djuegosguias.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>3DJuegos Guías</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-territorioese
+       "  href="//www.territorioese.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons">
+       <span>Territorio S</span>
+      </a>
+     </li>
+         </ul>
+ </div>
+</aside>
+<aside class="favicons-expanded-container js-favicons-expand" id="head-network">
+ <div class="favicons-expanded">
+           <div class="favicons-expanded-inner">
+    <ul><li><h4>Tecnología</h4></li><li><a class="favicon tec-xataka"  rel="nofollow"  href="//www.xataka.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Xataka
+     </a></li><li><a class="favicon tec-xatakamovil"  href="//www.xatakamovil.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Móvil
+     </a></li><li><a class="favicon tec-xatakandroid"  href="//www.xatakandroid.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Android
+     </a></li><li><a class="favicon tec-xatakahome"  href="//www.xatakahome.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Xataka Smart Home
+     </a></li><li><a class="favicon tec-applesfera"  href="//www.applesfera.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Applesfera
+     </a></li><li><a class="favicon tec-genbeta"  href="//www.genbeta.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Genbeta
+     </a></li><li><a class="favicon tec-mundoxiaomi"  href="//www.mundoxiaomi.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Mundo Xiaomi
+     </a></li><li><a class="favicon tec-territorioese"  href="//www.territorioese.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Territorio S
+     </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Videojuegos</h4></li><li><a class="favicon tech-3djuegos"  href="//www.3djuegos.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>3DJuegos
+     </a></li><li><a class="favicon tec-vidaextra"  href="//www.vidaextra.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Vida Extra
+     </a></li><li><a class="favicon tech-millenium"  href="//www.millenium.gg?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>MGG
+     </a></li><li><a class="favicon tec-3djuegospc"  href="//www.3djuegospc.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>3DJuegos PC
+     </a></li><li><a class="favicon tec-3djuegosguias"  href="//www.3djuegosguias.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>3DJuegos Guías
+     </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Entretenimiento</h4></li><li><a class="favicon oci-sensacine"  href="https://www.sensacine.com#utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Sensacine
+     </a></li><li><a class="favicon oci-espinof"  href="//www.espinof.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Espinof
+     </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Gastronomía</h4></li><li><a class="favicon est-directoalpaladar"  href="//www.directoalpaladar.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Directo al Paladar
+     </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Estilo de vida</h4></li><li><a class="favicon est-vitonica"  rel="nofollow"  href="//www.vitonica.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Vitónica
+     </a></li><li><a class="favicon est-trendencias"  href="//www.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Trendencias
+     </a></li><li><a class="favicon est-decoesfera"  rel="nofollow"  href="//decoracion.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Decoesfera
+     </a></li><li><a class="favicon tec-compradiccion"  href="//www.compradiccion.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Compradiccion
+     </a></li><li><a class="favicon est-poprosa"  href="//www.poprosa.com?utm_source=xataka&utm_medium=network&utm_campaign=favicons"><span></span>Poprosa
+     </a></li></ul>
+  </div>
+ 
+ </div>
+</aside>
+
+ <div id="fb-root"></div>
+   <section id="sections" class="head-menu-container head-menu-sections">
+ <a href="#sections" class="head-menu-toggler js-toggle"></a>
+ <div class="head-menu">
+  <a href="#sections" class="close close-corner js-toggle js-menu-close">Inicio</a>
+  <div id="opt-in"></div>
+     <div class="head-menu-partners">
+    <p class="nav-heading">Partners</p>
+    <ul>
+           <li><a class="head-list-item head-brand-link head-brand-tecnologialg js-track-header-event" href="/tecnologialg">
+          Life´s Good by LG
+         </a></li>           <li><a class="head-list-item head-brand-link head-brand-mueveteconrenault js-track-header-event" href="/mueveteconrenault">
+          muévete con Renault
+         </a></li>           <li><a class="head-list-item head-brand-link head-brand-innovacionvolvo js-track-header-event" href="/innovacionvolvo">
+          Innovación Volvo
+         </a></li>           <li><a class="head-list-item head-brand-link head-brand-makeitrealme js-track-header-event" href="/makeitrealme">
+          Make it realme
+         </a></li>           <li><a class="head-list-item head-brand-link head-brand-hpimpulsatupyme js-track-header-event" href="/hpimpulsatupyme">
+          HP impulsa tu pyme
+         </a></li>         </ul>
+   </div>
+       <div class="head-menu-extras">
+    <p class="nav-heading">Destacamos</p>
+    <ul>
+                     <li><a class="head-list-item head-brand-link head-brand-tecnologiazen js-track-header-event" href="https://premios.xataka.com/">
+      Premios Xataka
+      </a></li>
+                          <li><a class="head-list-item head-brand-link head-brand-tecnologiazen js-track-header-event" href="/black-friday">
+      Black Friday
+      </a></li>
+         </ul>
+   </div>
+       <div id="sections-search"></div>
+   <script>
+    document.getElementById("sections-search").innerHTML = '\
+     <div class="head-menu-search">\
+      <div class="head-search-form js-search-form">\
+       <input id="search-field-1" type="text" placeholder="Buscar en Xataka" class="search-container-1" data-container="#search-container-1">\
+       <button class="head-search-button js-search-button" data-field="#search-field-1">Buscar</button>\
+      </div>\
+     </div>';
+   </script>
+   <div id="search-container-1" class="js-search-results"></div>
+    <div id="sections-login-wrapper" class="sections-login">
+   <div id="js-login" class="user-card"></div>
+  </div>
+  <nav class="head-menu-categories">
+    <ul>
+           <li><a class="head-list-item js-track-header-event" href="/categoria/streaming">Streaming</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/analisis">Análisis</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/espacio">Espacio</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/moviles">Móviles</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/energia">Energía</a></li>           <li><a class="head-list-item js-track-header-event" href="/categoria/movilidad">Xataka Movilidad</a></li>                <li><a class="head-list-item js-track-header-event" href="/tag/apple">Apple</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/samsung">Samsung</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/inteligencia-artificial">Inteligencia artificial</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/china">China</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/empleo">Empleo</a></li>           <li><a class="head-list-item js-track-header-event" href="/tag/windows-11">Windows 11</a></li>         </ul>
+    <p class="head-more-item">
+     <a href="/archivos" class="btn js-track-header-event">Ver más temas</a>
+    </p>
+  </nav>
+  <aside class="head-menu-follow">
+   <span class="head-item-meta">Síguenos</span>
+    <ul>
+ <li>
+  <a class="icon-whatsapp link-whatsapp" href="https://whatsapp.com/channel/0029VaAOhno4tRrjQkLKjI2u" rel="nofollow">WhatsApp</a>
+ </li>
+ <li>
+  <a href="https://twitter.com/xataka" class="icon-x link-x" rel="nofollow">Twitter</a>
+ </li>
+ <li>
+  <a href="https://www.facebook.com/Xataka" class="icon-facebook link-facebook" rel="nofollow">Facebook</a>
+ </li>
+   <li>
+   <a href="https://www.youtube.com/user/xatakatv?sub_confirmation=1" class="icon-youtube link-youtube" rel="nofollow">Youtube</a>
+  </li>
+     <li>
+   <a class="icon-instagram link-instagram" href="https://instagram.com/xataka" rel="nofollow">Instagram</a>
+  </li>
+    <li>
+   <a href="https://telegram.me/xataka" class="icon-telegram link-telegram" rel="nofollow">Telegram</a>
+  </li>
+  <li>
+  <a class="icon-rss link-rss" href="/index.xml" rel="nofollow">RSS</a>
+ </li>
+     <li>
+   <a href="https://flipboard.com/@xataka" class="icon-flipboard link-flipboard" rel="nofollow">Flipboard</a>
+  </li>
+     <li>
+   <a href="https://www.linkedin.com/company/11275845/" class="icon-linkedin link-linkedin" rel="nofollow">LinkedIn</a>
+  </li>
+    <li>
+   <a class="icon-tiktok link-tiktok" href="https://www.tiktok.com/@xataka" rel="nofollow">Tiktok</a>
+  </li>
+  <li id="sections-newsletter">
+  <a href="#head-menu-newsletter" class="icon-email link-email js-toggle-subscribe">E-mail</a>
+ </li>
+</ul>
+  </aside>
+  <section id="head-menu-newsletter" class="head-menu-newsletter">
+   <a href="#head-menu-newsletter" class="close close-corner js-close-corner"></a>
+   <form class="newsletter-form head-newsletter-form js-subscription" method="post" data-url="https://www.xataka.com/modules/subscription/form" data-id="#head-menu-newsletter">
+    <h3 class="newsletter-heading">Recibe &quot;Xatakaletter&quot;, nuestra newsletter semanal </h3>
+    <p><input class="newsletter-input js-email" type="email" placeholder='Tu correo electrónico' required>
+    <button class="btn-primary newsletter-button js-subscribe-btn" type="submit">Suscribir</button></p>
+    <small class="newsletter-legal-disclaimer js-disclaimer">Suscribiéndote aceptas nuestra <a href="https://weblogs.webedia.es/aviso-legal.html">política de privacidad</a></small>
+    <div class="alert-success js-subscribe-success" style="display: none;"></div>
+    <div class="alert-error js-subscribe-error" style="display: none;">Error: el correo electrónico no tiene el formato correcto</div>
+   </form>
+  </section>
+  <nav class="head-menu-extras">
+   <ul class="head-list">
+         <li><a class="head-list-item section-tv js-track-header-event" href="https://www.youtube.com/user/xatakatv?sub_confirmation=1">Xataka
+      <span>TV</span>
+    </a></li>
+        <li><a class="head-list-item section-staff js-track-header-event" href="/quienes-somos">Equipo editorial</a></li>
+    <li><a class="head-list-item section-contact js-track-header-event" href="/contacto">Contacta con nosotros</a></li>
+    <li id="sections-login">
+     <span id="login"></span>
+    </li>
+   </ul>
+  </nav>
+         <aside class="head-menu-external">
+     <p class="nav-heading">Más sitios que te gustarán</p>
+     <ul>
+                           <li><a class="head-list-item js-track-header-event"  href="https://www.vidaextra.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Vidaextra</a></li>                           <li><a class="head-list-item js-track-header-event"  href="https://www.xatakandroid.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Android</a></li>                           <li><a class="head-list-item js-track-header-event"  href="https://www.xatakamovil.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Móvil</a></li>                           <li><a class="head-list-item js-track-header-event"  href="https://www.applesfera.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Applesfera</a></li>                           <li><a class="head-list-item js-track-header-event"  href="https://www.genbeta.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Genbeta</a></li>           </ul>
+    </aside>
+      <div class="head-menu-channels">
+    <h3>Explora en nuestros medios</h3>
+    <ul>
+           <li><a href="#head-channel-tecnologia" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+         Tecnología
+         <span class="head-item-meta m-desc">Móviles, tablets, aplicaciones, videojuegos, fotografía, domótica...</span></a><ul id="head-channel-tecnologia" class="head-channel-list"><li><a class="head-list-item tec-xataka js-track-header-event" rel="nofollow"  href="//www.xataka.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka</a></li><li><a class="head-list-item tec-xatakamovil js-track-header-event"   href="//www.xatakamovil.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Móvil</a></li><li><a class="head-list-item tec-xatakandroid js-track-header-event"   href="//www.xatakandroid.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Android</a></li><li><a class="head-list-item tec-xatakahome js-track-header-event"   href="//www.xatakahome.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Smart Home</a></li><li><a class="head-list-item tec-applesfera js-track-header-event"   href="//www.applesfera.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Applesfera</a></li><li><a class="head-list-item tec-genbeta js-track-header-event"   href="//www.genbeta.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Genbeta</a></li><li><a class="head-list-item tec-mundoxiaomi js-track-header-event"   href="//www.mundoxiaomi.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Mundo Xiaomi</a></li><li><a class="head-list-item tec-territorioese js-track-header-event"   href="//www.territorioese.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Territorio S</a></li></ul></li>           <li><a href="#head-channel-videojuegos" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+         Videojuegos
+         <span class="head-item-meta m-desc">Consolas, juegos, PC, PS4, Switch, Nintendo 3DS y Xbox...</span></a><ul id="head-channel-videojuegos" class="head-channel-list"><li><a class="head-list-item tech-3djuegos js-track-header-event"   href="//www.3djuegos.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">3DJuegos</a></li><li><a class="head-list-item tec-vidaextra js-track-header-event"   href="//www.vidaextra.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Vida Extra</a></li><li><a class="head-list-item tech-millenium js-track-header-event"   href="//www.millenium.gg?utm_source=xataka&utm_medium=network&utm_campaign=footer">MGG</a></li><li><a class="head-list-item tec-3djuegospc js-track-header-event"   href="//www.3djuegospc.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">3DJuegos PC</a></li><li><a class="head-list-item tec-3djuegosguias js-track-header-event"   href="//www.3djuegosguias.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">3DJuegos Guías</a></li></ul></li>           <li><a href="#head-channel-entretenimiento" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+         Entretenimiento
+         <span class="head-item-meta m-desc">Series, cine, estrenos en cartelera, premios, rodajes, nuevas películas, televisión...</span></a><ul id="head-channel-entretenimiento" class="head-channel-list"><li><a class="head-list-item oci-sensacine js-track-header-event"   href="https://www.sensacine.com#utm_source=xataka&utm_medium=network&utm_campaign=footer">Sensacine</a></li><li><a class="head-list-item oci-espinof js-track-header-event"   href="//www.espinof.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Espinof</a></li></ul></li>           <li><a href="#head-channel-gastronomia" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+         Gastronomía
+         <span class="head-item-meta m-desc">Recetas, recetas de cocina fácil, pinchos, tapas, postres...</span></a><ul id="head-channel-gastronomia" class="head-channel-list"><li><a class="head-list-item est-directoalpaladar js-track-header-event"   href="//www.directoalpaladar.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Directo al Paladar</a></li></ul></li>           <li><a href="#head-channel-Estilodevida" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+         Estilo de vida
+         <span class="head-item-meta m-desc">Moda, belleza, estilo, salud, fitness, familia, gastronomía, decoración, famosos...</span></a><ul id="head-channel-Estilodevida" class="head-channel-list"><li><a class="head-list-item est-vitonica js-track-header-event" rel="nofollow"  href="//www.vitonica.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Vitónica</a></li><li><a class="head-list-item est-trendencias js-track-header-event"   href="//www.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Trendencias</a></li><li><a class="head-list-item est-decoesfera js-track-header-event" rel="nofollow"  href="//decoracion.trendencias.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Decoesfera</a></li><li><a class="head-list-item tec-compradiccion js-track-header-event"   href="//www.compradiccion.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Compradiccion</a></li><li><a class="head-list-item est-poprosa js-track-header-event"   href="//www.poprosa.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Poprosa</a></li></ul></li>           <li><a href="#head-channel-EdicionesInternacionales" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+         Ediciones Internacionales
+         <span class="head-item-meta m-desc">México, USA, Colombia...</span></a><ul id="head-channel-EdicionesInternacionales" class="head-channel-list"><li><a class="head-list-item tec-xataka js-track-header-event"   href="//www.xataka.com.mx?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka México</a></li><li><a class="head-list-item est-directoalpaladar js-track-header-event"   href="//www.directoalpaladar.com.mx?utm_source=xataka&utm_medium=network&utm_campaign=footer">Directo al Paladar México</a></li><li><a class="head-list-item oci-sensacine js-track-header-event"   href="https://www.sensacine.com.mx#utm_source=xataka&utm_medium=network&utm_campaign=footer">Sensacine México</a></li><li><a class="head-list-item tec-3djuegoslat js-track-header-event"   href="//www.3djuegos.lat#utm_source=xataka&utm_medium=network&utm_campaign=footer">3DJuegos LATAM</a></li><li><a class="head-list-item tec-xatakaon js-track-header-event"   href="https://www.xatakaon.com?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka On</a></li><li><a class="head-list-item tec-xataka js-track-header-event"   href="//www.xataka.com.co?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Colombia</a></li><li><a class="head-list-item tec-xataka js-track-header-event"   href="//www.xataka.com.ar?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Argentina</a></li><li><a class="head-list-item tec-xataka js-track-header-event"   href="//www.xataka.com.br?utm_source=xataka&utm_medium=network&utm_campaign=footer">Xataka Brasil</a></li><li><a class="head-list-item oci-sensacine js-track-header-event"   href="https://www.sensacine.com.co#utm_source=xataka&utm_medium=network&utm_campaign=footer">Sensacine Colombia</a></li></ul></li>         </ul>
+   </div>
+    <nav class="head-menu-links">
+   <ul class="head-list">
+    <li><a class="head-list-item js-track-header-event" href="https://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+    <li><a class="head-list-item js-track-header-event" href="https://www.weblogssl.com/cookies">Condiciones de uso de cookies</a></li>
+    <li><a class="head-list-item js-track-header-event" href="mailto:publicidad@webedia-group.com">Publicidad</a></li>
+   </ul>
+  </nav>
+ </div>
+</section>
+<div id="headlines" class="head-menu-container head-menu-new m-menu-right">
+ <a href="#headlines" class="head-menu-toggler js-toggle"></a>
+ <div class="head-menu">
+  <a href="#headlines" class="close close-corner js-toggle">Inicio</a>
+     <p class="nav-heading">Reciente</p>
+    <ul id="recent-posts">
+    <li><a href="/ecologia-y-naturaleza/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones" class="head-new-item">
+   Parecía imposible que las lluvias de marzo fueran una mala noticia para alguien. Hasta que llegaron las sandías y los melones 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-02T10:00:13Z"></time></span></a></li> <li><a href="/investigacion/fisicos-cern-creian-que-simetria-quarks-arriba-abajo-esta-rota-esta-mucho-que-esperaban" class="head-new-item">
+  Los físicos del CERN creían que la simetría entre los quarks arriba y abajo está rota. Lo está mucho más de lo que esperaban
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-02T09:30:15Z"></time></span></a></li> <li><a href="/legislacion-y-derechos/cloudflare-sufre-reves-francia-justicia-le-obliga-a-bloquear-retransmisiones-ilegales-motogp" class="head-new-item">
+  Cloudflare sufre un revés en Francia: la Justicia le obliga a bloquear las retransmisiones ilegales de MotoGP 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-02T09:00:51Z"></time></span></a></li> <li><a href="/magnet/china-ha-vuelto-a-rodear-isla-taiwan-problema-que-ahora-sabemos-respuesta-eeuu-hay-invasion" class="head-new-item">
+  En estos momentos China rodea Taiwán. Un documento filtrado explica el tamaño de la respuesta de EEUU si pasa a mayores
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-02T09:00:13Z"></time></span></a></li> <li><a href="/nuevo/nintendo-switch-2-seguir-conferencia-directo" class="head-new-item">
+  Nintendo Switch 2: sigue en directo la presentación de la esperadísima nueva consola de la marca japonesa
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-02T08:36:00Z"></time></span></a></li> <li><a href="/seleccion/no-hace-falta-tener-kindle-para-devorar-libros-digital-este-ereader-cuesta-40-euros-ideal-para-viajar" class="head-new-item">
+  No hace falta tener un Kindle para devorar libros en digital. Este eReader cuesta menos de 40 euros y es ideal para viajar 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-02T08:30:14Z"></time></span></a></li> <li><a href="/streaming/todo-futbol-30-euros-pago-unico-movistar-lanza-agresiva-promocion-polemica-cloudflare" class="head-new-item">
+  Todo el fútbol por 30 euros, pago único: Movistar lanza una agresiva promoción tras la polémica con Cloudflare 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-02T08:30:13Z"></time></span></a></li> <li><a href="/basics/renta-2024-como-entrar-tu-borrador-presentar-tu-declaracion-online-2025-web-agencia-tributaria" class="head-new-item">
+  Renta 2024: cómo entrar en tu borrador y presentar tu declaración online de 2025 en la web de la Agencia Tributaria
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-02T08:19:27Z"></time></span></a></li> <li><a href="https://www.xatakamovil.com/movil-y-sociedad/movil-clave-inzoi-dentro-como-fuera-juego-te-mete-todavia-simulador-vida?utm_source=xataka&utm_medium=network&utm_campaign=headlines_reciente" class="head-new-item m-crosspost">
+  El móvil es clave en inZOI, tanto dentro como fuera del juego. Te mete todavía más en el simulador de vida 
+  <span class="head-item-meta">
+   en Xataka Móvil <time class="js-header-post" datetime="2025-04-02T08:19:44Z"></time></span></a></li> <li><a href="/videojuegos/nuevo-exito-mayor-descalabro-su-historia-todo-que-se-juega-nintendo-switch-2" class="head-new-item">
+  O un nuevo éxito o el mayor descalabro de su historia: todo lo que se juega Nintendo con la Switch 2 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-02T07:30:12Z"></time></span></a></li> <li><a href="/medicina-y-salud/cinco-anos-despues-no-hemos-logrado-sacudirnos-mayor-trauma-pandemia-seguimos-enganchados-a-antidepresivos" class="head-new-item">
+  Cinco años después, aún no hemos logrado sacudirnos un trauma de la pandemia: seguimos enganchados a los antidepresivos
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-02T07:00:30Z"></time></span></a></li> <li><a href="/empresas-y-economia/directivo-espanol-mejor-pagado-mundo-no-trabaja-gran-tecnologica-vende-agua-azucarada" class="head-new-item">
+  El directivo español mejor pagado del mundo no trabaja en una gran tecnológica: vende "agua azucarada"
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-02T06:00:36Z"></time></span></a></li> <li><a href="/moviles/motorola-edge-60-fusion-caracteristicas-precio-ficha-tecnica" class="head-new-item">
+  Motorola Edge 60 Fusion: la prueba de que la IA también puede llegar a los móviles más baratos
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-02T05:30:36Z"></time></span></a></li> <li><a href="/empresas-y-economia/repliegue-microsoft-china-no-se-detiene-acaba-cerrar-laboratorio-clave-ia-shanghai-scmp" class="head-new-item">
+  El repliegue de Microsoft en China no se detiene: acaba de cerrar un laboratorio clave de IA en Shanghái, según SCMP
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-01T21:31:15Z"></time></span></a></li> <li><a href="/espacio/este-millonario-bitcoin-pago-a-spacex-para-hacer-primer-vuelo-espacial-alrededor-polos-ha-conseguido" class="head-new-item">
+  Hoy ya solo necesitas una cosa para convertirte en pionero de los vuelos espaciales: haberte hecho millonario con Bitcoin
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-01T20:00:36Z"></time></span></a></li> <li><a href="/movilidad/ue-acaba-multar-458-millones-a-15-fabricantes-coches-mercedes-se-libro-destapar-pacto-anticompetitivo" class="head-new-item">
+  La UE acaba de multar con 458 millones a 15 fabricantes de coches: Mercedes se libró por destapar el pacto anticompetitivo
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-01T19:39:54Z"></time></span></a></li> <li><a href="/espacio/empresa-espanola-salvo-dia-gtd-hizo-caer-cohete-aleman-spectrum-al-mar-durante-lanzamiento-domingo" class="head-new-item">
+  Una empresa española salvó el día: GTD hizo caer el cohete alemán Spectrum al mar durante el lanzamiento del domingo
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-01T19:00:36Z"></time></span></a></li> <li><a href="/energia/china-controla-cadena-suministro-energia-solar-europa-quiere-cambiar-cosas-enorme-fabrica-silicio-asturias" class="head-new-item">
+  China controla la cadena de suministro de la energía solar. Europa quiere cambiarlo con una enorme fábrica en Asturias
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-01T18:30:35Z"></time></span></a></li> <li><a href="/robotica-e-ia/sumar-millon-cinco-dias-a-hacerlo-hora-imagenes-estilo-ghibli-han-vuelto-a-disparar-fenomeno-chatgpt" class="head-new-item">
+  De sumar un millón en cinco días a hacerlo en una hora: las imágenes estilo Ghibli han vuelto a disparar el fenómeno ChatGPT
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-01T18:00:14Z"></time></span></a></li> <li><a href="/ingenieria-y-megaconstrucciones/neom-era-sueno-arabia-saudi-para-librarse-petroleo-precio-oro-negro-esta-siendo-su-peor-pesadilla" class="head-new-item">
+  El proyecto faraónico de Neom se ha debilitado por un problema que Arabia Saudí no esperaba: el precio del petróleo no remonta
+  <span class="head-item-meta"><time class="js-header-post" datetime="2025-04-01T17:46:36Z"></time></span></a></li>  </ul>
+  <p class="head-more-item"><a href="#" class="btn" id="view-more" data-blog="xataka">Ver más artículos</a></p>
+     <div class="head-menu-video">
+    <p class="nav-heading"> Xataka
+     <span>TV</span>
+    </p>
+    <ul id="recent-videos">
+          <li><a href="https://www.xataka.com/analisis/samsung-galaxy-s25-ultra-analisis-caracteristicas-precio-especificaciones" class="head-new-item"><span class="head-new-video-thumb"><img alt="Samsung&#x20;Galaxy&#x20;S25&#x20;ULTRA&#x3A;&#x20;Mi&#x20;experiencia&#x20;2&#x20;MESES&#x20;DESPU&#x00C9;S&#x20;&#x7C;&#x20;Ha&#x20;tocado&#x20;TECHO&#x20;&#x1F914;" src="https://img.youtube.com/vi/XA2EEzBKncQ/mqdefault.jpg" width="320" height="180"></span><span class="head-new-video-desc">Samsung Galaxy S25 ULTRA: Mi experiencia 2 MESES DESPUÉS | Ha tocado TECHO 🤔</span></a></li>     <li><a href="https://www.xataka.com/analisis/oppo-find-x8-pro-analisis-caracteristicas-precio-especificaciones" class="head-new-item"><span class="head-new-video-thumb"><img alt="Samsung&#x20;Galaxy&#x20;S25&#x20;Ultra&#x20;VS&#x20;OPPO&#x20;Find&#x20;X8&#x20;Pro&#x20;&#x7C;&#x20;Si&#x20;quieres&#x20;la&#x20;mejor&#x20;c&#x00E1;mara&#x20;COMPRA&#x20;ESTE" src="https://img.youtube.com/vi/2lGGbTrr-1I/mqdefault.jpg" width="320" height="180"></span><span class="head-new-video-desc">Samsung Galaxy S25 Ultra VS OPPO Find X8 Pro | Si quieres la mejor cámara COMPRA ESTE</span></a></li>     <li><a href="https://www.xataka.com/wearables/ray-ban-meta-primeras-gafas-inteligentes-que-han-conseguido-impresionarme-principio-algo" class="head-new-item"><span class="head-new-video-thumb"><img alt="Grabo&#x20;el&#x20;evento&#x20;m&#x00E1;s&#x20;importante&#x20;del&#x20;a&#x00F1;o&#x20;SOLO&#x20;con&#x20;las&#x20;RAYBAN&#x20;META&#x20;&#x7C;&#x20;Mi&#x20;experiencia" src="https://img.youtube.com/vi/IVExlt-fIXA/mqdefault.jpg" width="320" height="180"></span><span class="head-new-video-desc">Grabo el evento más importante del año SOLO con las RAYBAN META | Mi experiencia</span></a></li>    </ul>
+    <p class="head-more-item"><a href="#" class="btn" id="view-more-videos" data-blog="xataka">Ver más vídeos</a></p>
+   </div>
+   </div>
+</div>
+<nav id="search" class="head-menu-container head-menu-searchapp">
+</nav>
+<script>
+ document.getElementById("search").innerHTML = '\
+ <a href="#search" class="head-menu-toggler js-toggle"></a>\
+ <div class="head-menu">\
+  <a href="#search" class="close close-corner js-toggle">Inicio</a>\
+  <h2>Buscar</h2>\
+  <div class="head-menu-search">\
+   <div class="head-search-form js-search-form">\
+    <input id="search-field-2" type="text" placeholder="Buscar en Xataka" class="search-container-2" data-container="#search-container-2">\
+    <button class="head-search-button js-search-button" data-field="#search-field-2">Buscar</button>\
+   </div>\
+  </div>\
+  <section id="search-container-2" class="js-search-results"></section>\
+ </div>';
+</script>
+<nav class="nav nav-list nav-register" id="nav-twitter-register"></nav>
+<div id="react-login"></div>
+<nav class="nav nav-list nav-login" id="nav-login"></nav>
+<nav class="nav nav-list nav-register" id="nav-register"></nav>
+<nav class="nav nav-list nav-login" id="nav-recover"></nav>
+<nav class="nav nav-list nav-login" id="nav-pick"></nav>
+<nav class="nav nav-list nav-login" id="nav-recover-twitter"></nav>
+<nav class="nav nav-list nav-login" id="nav-recover-facebook"></nav>
+<div id="js-edit-user-profile-form"></div>
+<div id="js-user-comments"></div>
+<div id="js-modal-user-deactivate"></div>
+
+  
+    <div id="cookies-overlay" class="cookies-overlay"></div>
+   </div>
+  </div>
+ </div>
+</div>
+  <div id="div-gpt-int" style="width:1px; height:1px;">
+   </div>
+  <div id="div-gpt-int2" style="width:1px; height:1px;">
+   </div>
+ <script>
+ (function() {
+  var lazyElements    = document.getElementsByClassName('sf-lazy')
+  ,   srcsetSupported = false
+  ,   threshold;
+
+  if (!/Edge\/\d+/.test(navigator.userAgent)) {
+   srcsetSupported = 'srcset' in document.createElement('img');
+  }
+
+  function updateAttributes(element) {
+   var sfSrcset = element.getAttribute('data-sf-srcset') || element.getAttribute('sf-srcset');
+   var sfSrc = element.getAttribute('data-sf-src') || element.getAttribute('sf-src');
+   var sizes = element.getAttribute('data-sizes');
+   if (sfSrcset) {
+    element.setAttribute('srcset', sfSrcset);
+   }
+   if (sfSrc) {
+    element.setAttribute('src', sfSrc);
+   }
+   if (sizes) {
+    element.setAttribute('sizes', sizes);
+   }
+   element.classList.remove('sf-lazy');
+  }
+
+  threshold = (window.innerHeight || document.documentElement.clientHeight) + 100;
+  function lazyLoad() {
+   var coords, element, i, isVisible;
+   if (0 == lazyElements.length) {
+    document.removeEventListener('scroll', lazyLoad);
+    return false;
+   }
+
+   for (i = 0; i < lazyElements.length; i++) {
+    element = lazyElements[i];
+    coords = element.getBoundingClientRect();
+    isVisible = (coords.top >= 0 && coords.left >= 0 && coords.top) <= threshold;
+    if (isVisible) {
+     updateAttributes(element);
+    }
+   }
+  }
+
+  if (srcsetSupported) {
+   document.addEventListener('scroll', lazyLoad);
+   lazyLoad();
+  }
+ })();
+</script>
+  <script>
+ var WSL2 = WSL2 || {};
+ WSL2.config = WSL2.config || {};
+ WSL2.config.fbapikey = "355823546895";
+ WSL2.config.fbApiVersion = "v8.0";
+ WSL2.config.siteName = "Xataka";
+ WSL2.config.newsletterSiteName = "Xatakaletter";
+ WSL2.config.jsPath = "https://img.weblogssl.com/LPbackend/prod/v2/js";
+ WSL2.config.gtmContainerId = "GTM-T9QSQ3V";
+ WSL2.config.gtmContainerIdGlobal = "GTM-TWST58M";
+ WSL2.config.imagePath = "https://img.weblogssl.com/css/xataka/p/common";
+ WSL2.config.desktopSiteUrl = "https://www.xataka.com";
+ WSL2.config.cookieDomain = "";
+ WSL2.config.enableEditorialRecommendations = "1";
+ WSL2.config.s3ImagePath = "https://i.blogs.es";
+ WSL2.config.socialTwitter = "xataka";
+ WSL2.config.enableUniformSocialShareGallery = "1";
+ WSL2.config.twitterSocial = "xataka";
+ WSL2.config.enableGiphyInComments = 0;
+ WSL2.config.enablePinterestSharing = 0;
+ WSL2.config.adminUrl = "https://admin.xataka.com";
+ WSL2.config.blogDomain = "xataka.com";
+ WSL2.config.blogMeta = {
+  siteName: "xataka",
+  mnemonic: "XTK",
+  blogDomain: "xataka.com"
+ };
+ WSL2.config.showMxSiteFloatingBox = 1;
+ WSL2.config.enableAdblockMonetization = 1;
+ WSL2.config.insuradsLink = "";
+ WSL2.config.uniformDateTimeFormat = "Y-m-d\TH:i:s\Z";
+ WSL2.config.dailymotionAutoplayLimit = 0;
+ WSL2.config.enableWebpImage = "0";
+ WSL2.config.productSiteUrl = "https://www.xataka.com";
+ WSL2.config.homepageVersion = "v4";
+ WSL2.config.desktopDailymotionPlayerId = "x8gm6";
+ WSL2.config.mobileDailymotionPlayerId = "x8gm4";
+ WSL2.config.dailymotionPlayerIdAutoplayOff = "xbl2m";
+ WSL2.config.enableOneLinkMessage = 1;
+ WSL2.config.disableDatetimeMention = "1";
+ WSL2.config.grecaptchaSiteKey = "6LeiX64UAAAAADw_CPFU4cciCrgrVCwbF_R6yFGu";
+ WSL2.config.timeZone = "Europe/Madrid";
+ WSL2.config.locale = "es";
+ WSL2.config.sendInternalPromotionAnalytics = "1";
+ WSL2.config.enableVideoPrebid = 1;
+ WSL2.config.enableGoogleLogin = 1;
+ WSL2.config.enableSocialLogin = 1;
+ WSL2.config.removeSocialLogin = 1;
+ WSL2.config.enableTaboolaIntegration = "0";
+ WSL2.config.enablePerformanceImprovements = "0";
+ WSL2.config.enableGoogleCustomSearchEngine = "0";
+ WSL2.config.enableInpEventLog = 0;
+ WSL2.config.enableGTMdidomi = "";
+ WSL2.config.enableOpenweb = 0;
+ WSL2.config.openwebSpotId = "sp_elHFZQu4";
+ WSL2.config.enablePageViewParams = "1";
+ WSL2.config.enableInternalClicks = "1";
+ WSL2.config.enableNewSocialShareFB = 1
+ WSL2.config.enableCoAuthor = 0
+ WSL2.config.enableLimitedTimeDeal = "1"
+ WSL2.config.enableDynamicIU = "1";
+ WSL2.config.enableCtcImpressions = "1";
+ WSL2.config.enableBrandEventsTracking = "1";
+</script>
+<script>
+ function injectScript(src) {
+  var script = document.createElement('script');
+  script.src = src;
+  script.async = true;
+  if ('ES' === window.country) {
+    script.type = 'didomi/javascript';
+  }
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(script, firstScriptTag);
+ }
+
+ if (document.querySelectorAll('div.js-dailymotion').length) {
+  injectScript('https://img.weblogssl.com/LPbackend/prod/v2/js/dailymotion-121fc4d7.js');
+ }
+</script>
+<script>
+ WSL2.config.postSubType = "normal";
+ WSL2.config.redirectDesktopRoot = 'false';
+ WSL2.config.postId = 316939;
+ WSL2.config.postTitle = "\u0020Parec\u00EDa\u0020imposible\u0020que\u0020las\u0020lluvias\u0020de\u0020marzo\u0020fueran\u0020una\u0020mala\u0020noticia\u0020para\u0020alguien.\u0020Hasta\u0020que\u0020llegaron\u0020las\u0020sand\u00EDas\u0020y\u0020los\u0020melones\u0020";
+ WSL2.config.tweetText = "Comentario%20a%20%20Parec%C3%ADa%20imposible%20que%20las%20lluvias%20de%20marzo%20fueran%20una%20mala%20noticia%20para%20alguien.%20Hasta%20que%20llegaron%20las%20sand%C3%ADas%20y%20los%20melones%20";
+ WSL2.config.twitterName = "";
+ WSL2.config.postUrl = "https://www.xataka.com/ecologia-y-naturaleza/parecia-imposible-que-lluvias-marzo-fueran-mala-noticia-para-alguien-que-llegaron-sandias-melones";
+ WSL2.config.recommendationEngineVersion = 1;
+ WSL2.config.device = "desktop";
+ WSL2.config.enableNanomediaHeader = 1;
+</script>
+  <script defer src="https://img.weblogssl.com/LPbackend/prod/v2/js/postpage-121fc4d7.js"></script>
+ </body>
+</html>

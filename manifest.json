@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Summarizer",
+  "version": "1.0",
+  "description": "A extension that summarizes the content of the provided links according to the title",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "contextMenus",
+    "tabs",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["styles.css"],
+      "js": ["utils.js","Summary.js","content.js"]
+    }
+  ]
+}

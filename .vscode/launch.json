@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Attach to Edge",
+      "port": 9222,
+      "request": "attach",
+      "type": "msedge",
+      "webRoot": "${workspaceFolder}",
+      "url": "http://127.0.0.1:5500/index.html", // Or any URL where your content script should run
+    }
+  ]
+}
